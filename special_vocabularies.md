@@ -611,3 +611,217 @@
 
 - besiege, beset, blockade, obsideo, -ere, -sedi, -sessum
 - fail, deficio.
+- greatly, magnopěre.
+- order, jussum.
+- territories, fines, -ium, m. [finis, in singular = boundary].
+- nevertheless, tamen [usually not first word].
+- withdraw, discedo.
+
+## Exercise 54.
+
+- engage in battle, join battle, proelium committo.
+- dismiss, disband, dīmitto.
+- draw up in line of battle, instruo -ere, -struxi, -structum.
+- withstand, sustineo.
+- line of battle, acies, f., 5.
+- escape, n., fuga.
+- all to a man, omnes ad unum.
+
+## Exercise 55.
+
+- review an army, recenseo, -ere, -ui.
+- thick, densus.
+- cloud, nubes, -is, f.
+- any (in negative sentences), ullus.
+- mortal, mortālis.
+- by name [called], nomine.
+- appear, videor.
+- capital, căput, -itis, n.
+- world, orbis terrarum.
+- practise, studeo.
+- art of war, ars militaris.
+- speak the truth, vera loquor.
+
+## Exercise 56.
+
+- clever, callidus.
+- offence, noxa, delictum.
+- give evidence, testimonium dīco.
+- accuser, accusator.
+- anger, ira.
+- make angry, lăcesso, -ere, -ivi, -itum.
+- swear, jūro, I.
+
+## Exercise 57.
+
+- value, think worth, aestimo, I.
+- liberty, libertas.
+- cheap, worthless, vilis.
+- at a low price, vili.
+- at a high price, highly, magni.
+- of no value, nìhili.
+- cost, stare (dat. of person).
+- sesterce, sestertius, -i, m.
+- care a straw for, flocci facio.
+- slave, servus, -i.
+- talent, tălentum.
+- virtue, virtūs, -tutis, f.
+
+## Exercise 59.
+
+- waste time, tempus těro, -ěre, -trīvi, trītum.
+- confidence, fiducia.
+- too much, nimis, adv. ; nimius, adj.
+- too little, very little, parum, adv.
+- boldness, audacia.
+- loss, dētrīmentum.
+- surrender (intrans.), se tradere, dedere ; in deditionem venire.
+- strength, robur, -oris, n.
+- still, adhuc.
+- keep, conservo, I.
+- old (of former times), antīquus. (living or lasting long), větus, -ěris.
+- most, plērique.
+- show (of qualities), praesto, -stare, -stiti.
+- where in the world, ubi gentium.
+- live (=dwell), habito, I.
+
+## Exercise 60.
+
+- eloquence, eloquentia.
+- nation, gens, gentis, f.
+- lose, amitto.
+- hope, spes, f., 5.
+- country (native land), patria. (district), rěgio, fines. (land), terra. (opp. to town), rus.
+- send to help, submitto, acc. and dat .; *e.g. copias Caesari submittit.*
+
+## Exercise 61.
+
+*The following couples of verbs, one governing Dat. and the other Acc., are especially to be noted:*
+- help, support, succurro,-ere, -curri, -cursum (dat.), subvěnio (dat.), jŭvo (acc.).
+- please, plăceo (dat.), jŭvo (acc.).
+- advise, suadeo, suasi, suāsum (dat.), moneo (acc.).
+- command, impěro (dat.), jŭbeo, (acc.).
+- hurt, harm, noceo (dat.), laedo, -ěre, laesi, laesum (acc.).
+- heal, mědeor (dat.), sāno, I. (acc.).
+- marry (woman as subject), nubo, -ěre, nupsi, nuptum (dat.). (man as subject), duco (acc.).
+
+*The following govern the Dative:*
+- believe, trust, credo.
+- obey, pareo.
+- spare,parco,-ěre, pěperci, parsum.
+- pardon, ignosco, -ěre, -nōvi, -notum.
+- envy, invideo.
+- to be angry with, irascor, iratus.
+- restrain, tempěro, I.
+- to be devoted to, studeo.
+- favour, făveo, favi, autum.
+
+*Also all compounds of sum:*
+- adesse, to be present at.
+- interesse, to take part in.
+- praeesse, to be in command of.
+- deesse, to fail, to be wanting to.
+- superesse, to survive.
+- prödesse (prosum), to be advantageous, of service to,
+
+*And a large number of verbs compounded with preps. and bene, male, salis, re:*
+- satisfy, satisfacio.
+- put in command of, praeficio (acc. and dat.); e.g. Labienum legioni praefecit.
+- entrust, committo, acc. and dat.
+- wage war on, infero bellum.
+- declare war against, bellum indico.
+- to press hard upon, insto, institi.
+- prefer, antepono (acc. and dat.); e.g. anteponit rus urbi.
+- throw in the way cf, objicio (acc. and dat.).
+- threaten, minor, I. ; e.g. mortem mihi minatur.
+- hold out against, resist, rěsisto.
+
+- wealth, riches, divitiae.
+- cause, causa.
+- disease, morbus, -i, 1/z.
+- meet, obviam eo, dat.
+- enemy (public), hostis. (private), inimīcus.
+
+## Exercise 62.
+
+- French, Galli.
+- legion, lěgio.
+- countryien (=fellow-countrymen, fellow-citizens), cives.
+- judge, jūdex, -icis.
+- torture, crciatus, -ūs, m.
+- exact from, impero, acc. and dat. ; e.g. naves sociis imperat.
+- slavery, servitus, -tutis, f.
+- agriculture, agricultūra.
+
+## Exercise 63.
+
+- advice, consilium.
+- safety, sălus, -ūtis, f.
+- in the hands of, in potestate.
+- Persians, Persae.
+- Athenians, Athenienses.
+- the others, the rest, ceteri, reliqui.
+- trust, confido, -ere, confisus sum, dat.
+
+## Exercise 64.
+
+- form a plan, consilium căpio or ineo.
+- secretly, clam, adv.
+- rout, fundo, -ěre, fūdi, fūsum.
+
+## Exercise 65.
+
+- fight a battle, proelium facio.
+- suddenly, subito.
+- take to flight, terga verto, -ere, verti, versum.
+- drive down, depello.
+
+## Exercise 66.
+
+- robber, latro, -onis.
+- strong (of positions, etc.), firmus.
+- approach, ăditus, -ūs, 1l.
+- block, obsideo,-ēre,-sēdi, -sessum.
+- cut down, succido, -ere, -cīdi, -cisum.
+- storm, take by storm, expugno, I.
+
+## Exercise 67.
+
+- crop, sěgěs, -ětis, f.f
+- ripen, maturesco.
+- ripe, ready (early), matūrus.
+- guide, dux.
+- horseman, ěques, -Itis.
+- take prisoner, căpio, captīvum facio.
+- on the march, ex/in itiněre.
+- discover, find (find what one is looking for), rěpěrio, -ire, repperi, repertum. (find by chance), invenio. (find out, learn, of facts), cognosco.
+- children, līběri.
+- midnight, mědia nox.
+- German, Germanus.
+- in safety, incolŭmis, adj.
+- cattle, pěcus, -oris, n.
+- marsh, pălus, -udis, f.
+
+## Exercise 68.
+
+- letter, litterae, f. pl.
+- hold, occupy, occupo, I.
+- recall, rěvoco, I.
+- order, jussum.
+- cruel, saevus, crūdēlis.
+- cruelty, saevitia, crūdēlitas.
+- massacre, slaughter, caedes, -is, f.
+- fleet, classis, -is, f.
+
+## Exercise 69.
+
+- England, Britannia.
+- Englishman, Britannus.
+- France, Gallia.
+- Frenchman, Gallus.
+- French (adj.), Gallicus.
+- on account of, ob, propter.
+- priest, săcerdōs, -dotis.
+- weapon, telum.
+- iron (adj.), ferreus.
+- club, clāva, fustis, -is, m,
