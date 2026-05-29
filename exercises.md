@@ -807,7 +807,7 @@ The French king himself was the bravest knight in his army. He himself was wound
 
 ⁵ Deponent-reor.
 
- ## Exercise 71A
+## Exercise 71A
 
 1.  The rich are envied by the poor.
 2.  A fierce battle was fought at Cannae.
@@ -820,7 +820,7 @@ The French king himself was the bravest knight in his army. He himself was wound
 9.  Many men more ill than you have been healed.
 10. Shall such men be favoured among us?
 
- ## Exercise 72B
+## Exercise 72B
 
 1.  Is a man believed who has once lied?
 2.  The work is only hindered by such people.¹
@@ -835,7 +835,7 @@ The French king himself was the bravest knight in his army. He himself was wound
 
 ¹ Here "such people" may be expressed by "tales' only. Very frequently people may be thus omitted or translated by "ii" : e.g. people who lie=ii qui mentiuntur. "Populus" is only a people in the political sense, a nation.
 
- ## Exercise 73A
+## Exercise 73A
 
 1.  Let us escape to the woods.
 2.  Follow me into the city.
@@ -848,7 +848,7 @@ The French king himself was the bravest knight in his army. He himself was wound
 9.  Do not let us ask our friends for help.
 10. Hold your ground, and do not retreat.
 
- ## Exercise 74B
+## Exercise 74B
 
 1.  Take away this shield.
 2.  Do not bring cavalry, but bring infantry and archers.
@@ -863,7 +863,7 @@ The French king himself was the bravest knight in his army. He himself was wound
 
 ¹ In Latin 'nor.' The second half of the sentence is really negative.
 
- ## Exercise 75A
+## Exercise 75A
 
 1.  I asked him to follow me into the streets.
 2.  I beg of you not to let him escape.
@@ -878,7 +878,7 @@ The French king himself was the bravest knight in his army. He himself was wound
 11. I have persuaded him to devote himself to his books.
 12. Order the vanguard to halt.
 
- ## Exercise 76B
+## Exercise 76B
 
 1.  They have persuaded me to stay at home.
 2.  Tell your men to follow you.
@@ -893,7 +893,7 @@ The French king himself was the bravest knight in his army. He himself was wound
 11. They urged their fellow‑countrymen not to surrender nor send hostages to the Romans.
 12. The people of the town begged Caesar to spare them.
 
- ## Exercise 77A
+## Exercise 77A
 
 1.  He ordered his men¹ to break down the bridge which had been made over² the Rhone.
 2.  He persuaded his men not to retreat, and warned them that the whole country was in the hands³ of the enemy.
@@ -913,7 +913,7 @@ The French king himself was the bravest knight in his army. He himself was wound
 ⁴ Abl. Abs. Remember that in this construction _impero_ cannot be used. See Rule 9.
 ⁵ Abl. Abs.
 
- ## Exercise 78B
+## Exercise 78B
 
 1.  I have been asked to stand for the consulship.
 2.  I shall forbid their crossing to this side of the river.
@@ -927,28 +927,28 @@ The French king himself was the bravest knight in his army. He himself was wound
 10. Persuade him that it is dangerous to cross the mountain.
 11. Divitiacus tried to persuade the Gauls to remain faithful to Caesar, and not to revolt from him.
 
- ## Exercise 79A
+## Exercise 79A
 
 Cincinnatus lived on the other side of the Tiber on a little farm, which he cultivated with his own hands. The messengers, who had been sent by the senate, found him sitting in the fields. They told him that they had come to inform him that he had been appointed dictator, and asked him to set out with them as soon as possible. Thereupon he bade his wife Racilia bring him his toga, in order that he might not displease the messengers of the senate. When it had been brought, he said he was willing to obey their commands, and would go with them at once.
 
- ## Exercise 80A
+## Exercise 80A
 
 A certain¹ king found one of his slaves sleeping and holding a letter in his hand. He read the letter, in which the boy’s mother thanked him because he had sent² her money, and begged him to obey his master faithfully. The king put the letter back with gold into the boy’s hand, and then told another slave to wake him. At first the boy was frightened, when he saw the gold; but the king told him that good fortune often came to men when sleeping, and bade him give the gold to his mother, and say that the king greatly praised the mother of so good a son.
 
 ¹ Quidam, following its noun.
 ² Verb in Plup. Subj.
 
- ## Exercise 81A
+## Exercise 81A
 
 In the evening a spy was caught by the guards at the gate of the town. Being brought to the commander of the garrison he fell down, and besought him with tears to spare him. He said he could persuade many of the besieging army to desert, and promised to assassinate their general. But the commander said he did not wage war in that way; and he ordered the guards to conduct the man to the enemy’s camp. At the same time he sent a letter to the general, in which he advised him not to make use of traitors again—for (said he) they are always willing³ to betray their masters to save their own lives.
 
 ³ This sentence is an Indirect Statement; but the word for 'said he' will be omitted in Latin, being understood from 'advised.'
 
- ## Exercise 82B
+## Exercise 82B
 
 After this battle the Spartan commander sent a messenger to Sparta to tell the citizens that their good fortune had been lost, Mindarus slain, and that the soldiers were dying of starvation. Soon, however, Darius sent his younger son Cyrus to the coast to supply pay to the Spartan sailors. These then attacked the Athenians so suddenly that they easily beat them, and took the whole fleet. At length the Athenians, being compelled by famine, surrendered their city, and became allies of the Spartans.
 
- ## Exercise 83B
+## Exercise 83B
 
 On the next day the English advanced by forced marches with the intention of¹ attacking the French off their guard. But the latter had already learnt by means of² spies that the English were advancing, and had taken up their position on the top of a mound. When the English came within range, the archers began to shoot their arrows at the enemy. But the French general told his men not to fire back, but to allow the English to approach the bottom of the mound. When they were a few paces distant, he ordered his men not to wait any longer, but to get ready their arms. Then when the signal was given the French charged with such force that the English were routed and took to flight.
 
@@ -959,7 +959,7 @@ On the next day the English advanced by forced marches with the intention of¹ a
 
 The general vainly tried to persuade his men to follow him through the wood. He told them that the enemy had retreated, and that no one would attack them on the march. But they replied that night was approaching, and that many enemies could conceal themselves behind the trees; and they begged him to allow them to pass the night in the camp. But the general would not allow this, but said that he himself would advance at once even with a few men. The rest he advised to return to the city, and tell their friends that they had been unwilling to march against the enemy.
 
- ## Exercise 85A
+## Exercise 85A
 
 1.  I shall only be a burden to you.
 2.  To sound a retreat will serve as a signal for flight.
@@ -973,7 +973,7 @@ The general vainly tried to persuade his men to follow him through the wood. He 
 10. He ought not to be hated by you.
 11. They persuaded him that such a plan would mean destruction to the whole army.
 
- ## Exercise 86B
+## Exercise 86B
 
 1.  Avarice is a great evil to men.
 2.  This is a great proof of his courage.
@@ -987,7 +987,7 @@ The general vainly tried to persuade his men to follow him through the wood. He 
 10. This victory was the salvation of the state.
 11. The position itself was a great help to the Gauls.
 
- ## Exercise 87A
+## Exercise 87A
 
 1.  Having been banished from his country, he said he was freed from her laws.
 2.  He was descended from kings, but he did not enjoy kingly power himself.
@@ -1001,7 +1001,7 @@ The general vainly tried to persuade his men to follow him through the wood. He 
 10. Men are often injured even by praise.
 11. Not only does the island abound in fruits and flowers, but it is inhabited by a race descended from the gods.
 
- ## Exercise 88B
+## Exercise 88B
 
 1.  This victory has freed us from all fear.
 2.  The camp was pitched on a hill not far from the town.
@@ -1018,7 +1018,7 @@ The general vainly tried to persuade his men to follow him through the wood. He 
 
 ¹ all
 
- ## Exercise 89A
+## Exercise 89A
 
 1.  The troops were few in number, but they fought with great bravery.
 2.  He replied in a loud voice that he would never yield.
@@ -1036,7 +1036,7 @@ The general vainly tried to persuade his men to follow him through the wood. He 
 ¹ Gen. of _crime_.
 ² See note to Ex. 49.
 
- ## Exercise 90B
+## Exercise 90B
 
 1.  The Athenians joined battle with the utmost fury.
 2.  What he has learnt with care he values most highly.
@@ -1051,11 +1051,11 @@ The general vainly tried to persuade his men to follow him through the wood. He 
 11. The consul with a smile said, “Go home and do not come here again.”
 12. We are inferior to the enemy in numbers, but our men excel others in courage.
 
- ## Exercise 91A
+## Exercise 91A
 
 Numa being dead, Tullus Hostilius was made king. While he was king war arose between the Romans and Albans. In order that the war might be finished without great loss, the kings ordered that three Romans should fight for their fatherland against three Albans, and decide the contest. The fight lasted a long time, but at last two of the Romans were killed, and all three Albans were wounded. The third Roman, whose name was Horatius, pretended to flee, and induced the Albans to pursue him. In following him they were separated, and Horatius, turning round, killed them in turn.
 
- ## Exercise 92A
+## Exercise 92A
 
 Eurystheus then set¹ Hercules the eleventh labour, which was harder than those which we have mentioned above. For he ordered him to take away the golden apples from the gardens of the Hesperides.² These were nymphs of remarkable beauty, who lived in a distant land, and some golden apples had been entrusted³ to them by Juno. Many men had before this tried to take away these apples; but it was a difficult thing to do,⁴ for the garden in which the apples were was surrounded by a high wall on all sides. Moreover a dragon,⁵ which had a hundred heads, guarded the gate of the garden carefully by day and night.
 
@@ -1065,26 +1065,26 @@ Eurystheus then set¹ Hercules the eleventh labour, which was harder than those 
 ⁴ factu (supine).
 ⁵ draco, onis, m.
 
- ## Exercise 93A
+## Exercise 93A
 
 Hearing that the Belgae were conspiring against the Romans, Caesar determined to go himself without delay to central Gaul with two legions, ordering the rest to follow in a few days. On his arrival the Remi, who live on the borders of Gaul, sent ambassadors to say that they were willing to give hostages, and help the Romans with corn. They said that the rest of the Belgae were under arms, and that the Germans had joined them. On hearing this, Caesar promised to come with all possible speed to the help of the Remi, that having joined their forces they might repel the invasion of the Germans.
 
- ## Exercise 94A
+## Exercise 94A
 
 The Romans, having set out about the third watch, advanced with great caution, for they had been informed that the enemy were close at hand. They advanced until late in the night, and then were told to pitch their camp. In the middle of the night shouts were heard on all sides, and they saw that great forces of the enemy were making an attack. So they took up their arms as quickly as possible to repel the onset. But when the enemy perceived that they had not been able to attack our men off their guard, the signal for retreat was given, and they withdrew.
 
- ## Exercise 95B
+## Exercise 95B
 
 Louis¹ could not at this time besiege Tunis,¹ because he had not received reinforcements from his brother Charles,¹ King of Sicily; and meanwhile his army was attacked by a disease which carried off the greater part of his soldiers in a few days. The king himself was seized with the disease, and felt that he would die of it. But, to sustain the courage of his soldiers, he performed all the duties of a king, and attended in every way to the safety of the camp. But at last he was compelled to remain within his tent, and before long² died, after telling his men never to abandon the siege.
 
 1 Louis=Ludovicus. Charles=Carolus. For Tunis use Carthage.
 2 Before long=mox.
 
- ## Exercise 96B
+## Exercise 96B
 
 Nothing had been heard of the army for many months, and the citizens began to think that it had been defeated and all their fellow‑countrymen killed. The women used to go every day to the temples, and pray the gods to send them back safely their husbands and sons. At last, when winter was approaching, and all had begun to give up hope, a messenger was seen at a distance who was approaching the city with great speed. The citizens all rushed out to meet him, and implored him to tell them without delay about the army. So tired was the messenger by his journey that at first he could not speak; but at length he said that the army had both won many victories and taken many towns of the enemy, and that the soldiers hoped in a short time to return home with a great quantity of booty and many prisoners.
 
- ## Exercise 97B
+## Exercise 97B
 
 As the people of Veii¹ often made incursions² for the sake of plunder, the Romans were scarcely able to defend their own territories. Their soldiers went home to their fields in the spring to sow, and in the autumn to gather the harvest, at which times the Veientines did a great deal of harm to³ their lands. At last the Fabii promised the Senate that they would be under arms the whole year, and undertake the whole war themselves. The Senate thanked them, and going out from Rome they made a camp near the river Cremera. For a little time they checked the Veientines, but at length they were surrounded, and slaughtered to a man.
 
@@ -1092,7 +1092,7 @@ As the people of Veii¹ often made incursions² for the sake of plunder, the Rom
 ² Abl. Abs.
 ³ Harmed much.
 
- ## Exercise 98B
+## Exercise 98B
 
 We set out from Moscow⁴ about the third watch, so that no disturbance might be excited by our friends. I never expected to see my brothers again. For thirty‑three days we marched along a road covered by snow a foot deep. Sometimes one of us fell down, and was unable to move further. Our guards did not try to urge him on, for they knew well that the wolves would have him for⁵ their prey before the next day. I now often envy those who were thus left on the road, and prefer death to the evils which daily press upon me. I am compelled to work, but that is the least of my ills; I am compelled to see the sufferings of the women who with us dared everything for the sake of liberty.
 
@@ -1120,7 +1120,7 @@ For serving the king.
 
 ¹ When the Gerund or Gerundive depends on a substantive, put it in the Genitive Case.
 
- ## Exercise 100A
+## Exercise 100A
 
 1.  We have done this for the sake of helping our friends.
 2.  By teaching others we learn ourselves.
@@ -1133,7 +1133,7 @@ For serving the king.
 9.  An opportunity has been offered for fighting.
 10. This seems a good opportunity for defeating the enemy.
 
- ## Exercise 101A
+## Exercise 101A
 
 1.  Caesar sent cavalry to bring help to the allies.
 2.  The officers sent their men to forage in all directions.
@@ -1146,7 +1146,7 @@ For serving the king.
 9.  No opportunity was left them for retreating.
 10. They are anxious to devote themselves to letters.
 
- ## Exercise 102B
+## Exercise 102B
 
 1.  They were led on by the hope of taking the city.
 2.  I was induced to do this for the sake of pleasing the soldiers.
@@ -1159,7 +1159,7 @@ For serving the king.
 9.  I am anxious to consult your interests.
 10. Caesar was anxious to exact hostages from the Gauls.
 
- ## Exercise 103B
+## Exercise 103B
 
 1.  Let us not talk of flying, for only by holding our ground shall we conquer.
 2.  To save his country a man ought always to face death.
@@ -1176,7 +1176,7 @@ For serving the king.
 ¹ Comparative
 ² _One needs_ = opus est.
 
- ## Exercise 104A
+## Exercise 104A
 
 1.  It is easy to say, but difficult to do.
 2.  They say that the city will not easily be captured.
@@ -1189,7 +1189,7 @@ For serving the king.
 9.  They left Rome to found a new colony.
 10. All agree that the city will never be surrendered.
 
- ## Exercise 105B
+## Exercise 105B
 
 1.  Aeneas had gone away from the camp to ask for help.
 2.  I do not believe that the money will be paid.
@@ -1202,7 +1202,7 @@ For serving the king.
 9.  Send men to give an answer.
 10. He spoke with a voice difficult to hear.
 
- ## Exercise 106A
+## Exercise 106A
 
 Our men saw that they were surrounded on all sides; and no opportunity being left for retreating, they resolved to charge with all their might in the hope of striking terror into the enemy. They knew that they had been brought into these dangers by delaying too long¹ before, and they hoped that by fighting bravely now they would force the enemy to give ground. Therefore, when the signal for advance was given, they ran forward with a loud shout against that part of the line which seemed weakest.² The enemy were thrown into such confusion³ by this unexpected attack that their line was broken at once, and no one resisted our charge.⁴
 
@@ -1211,7 +1211,7 @@ Our men saw that they were surrounded on all sides; and no opportunity being lef
 ³ _were so disturbed_ (perturbare).
 ⁴ them charging.
 
- ## Exercise 107A
+## Exercise 107A
 
 A messenger had been sent to France to ask for help, and to invite French troops to Ireland. Arms and money were promised for the purpose of assisting an Irish army. These were conveyed⁵ by a French ship, and a hundred men assembled on the shore to receive the arms which it was going to land.⁶ But in a storm two of their boats had been broken, and in repairing them time was wasted.⁷ Meanwhile, to scatter the rebels, a troop of horse had been sent out from Cork, at the sight of whom⁸ the rebels fled in all directions; and to effect their own escape the French sailors threw the arms overboard;⁹ they lie sunk¹⁰ in the harbour to this day.
 
@@ -1222,14 +1222,14 @@ A messenger had been sent to France to ask for help, and to invite French troops
 ⁹ e navi projicere.
 ¹⁰ gubmersus.
 
- ## Exercise 108B
+## Exercise 108B
 
 The French general was unwilling to attack us at close quarters, because his troops were inexperienced in battle, and he thought they would fight best when sheltered¹ by ramparts. Moreover, three years before his troops had been unable to resist the English hand to hand, but having been withdrawn into the town, had defended the walls obstinately. The recollection of that time and the desire to prolong the war induced him to remain where he was. However, in order to give the Belgians² an opportunity of deserting us, he sent out troops of cavalry as far as our outposts. But for fear of this we employed no Belgians as sentinels. For throughout the whole year we were expecting every day they would desert us.
 
 ¹ tectus=covered, in the sense of sheltered; opertus=covered, in the sense of hidden.
 ² Belgae.
 
- ## Exercise 109B
+## Exercise 109B
 
 The Athenians hoped that a Spartan army would march into Boeotia, and had taken no measures³ to save their families and property. Therefore they saw with the utmost fear and dismay that the Barbarians were advancing with all their forces for the sake of attacking their city. It was evident that in six days Xerxes would be at Athens, and this seemed a very short time for removing the population of a whole city. But they knew that it was of the greatest importance⁴ to them to accomplish this, and before his arrival they had safely removed all who were willing to leave their homes. Some were taken to Aegina, others to Troezen;⁵ but many could not be induced to proceed farther than Salamis.⁶
 
@@ -1238,7 +1238,7 @@ The Athenians hoped that a Spartan army would march into Boeotia, and had taken 
 ⁵ Troezen, Gen. Troezenis f.
 ⁶ Salamis, Gen. Salamiuis, Acc. Salamina f.
 
- ## Exercise 110A
+## Exercise 110A
 
 1.  Did you say that you would come?
 2.  Were you or your brother the first to arrive?
@@ -1252,7 +1252,7 @@ The Athenians hoped that a Spartan army would march into Boeotia, and had taken 
 10. How great is the army of the enemy, and who commands it?
 11. What plan have you formed now?
 
- ## Exercise 111B
+## Exercise 111B
 
 1.  Is it easier to command or to obey?
 2.  Have you seen the horse which I gave your brother?
@@ -1266,7 +1266,7 @@ The Athenians hoped that a Spartan army would march into Boeotia, and had taken 
 10. How great is the army of the enemy, and who commands it?
 11. Where did you buy this horse? Where did you send the letter? Where did these ships come from?
 
- ## Exercise 112A
+## Exercise 112A
 
 1.  Tell me why you did that.
 2.  We have not been told when reinforcements will arrive.
@@ -1279,7 +1279,7 @@ The Athenians hoped that a Spartan army would march into Boeotia, and had taken 
 9.  Have you heard what plan the general has formed?
 10. I was told how bravely our men had fought.
 
- ## Exercise 113A
+## Exercise 113A
 
 1.  I have not heard when he arrived.
 2.  It is doubtful whether we ought to do this or not.
@@ -1292,7 +1292,7 @@ The Athenians hoped that a Spartan army would march into Boeotia, and had taken 
 9.  We had not been told what sort of man he was.
 10. Can you tell me if he was rightly punished?
 
- ## Exercise 114B
+## Exercise 114B
 
 1.  Nobody knows whether he said that or not.
 2.  Have you heard which of the two was elected consul?
@@ -1305,7 +1305,7 @@ The Athenians hoped that a Spartan army would march into Boeotia, and had taken 
 9.  We, who are old, understand how happy are the young.
 10. I do not know whether you deserve praise or blame.
 
- ## Exercise 115B
+## Exercise 115B
 
 1.  He wants to know what I am going to do tomorrow.
 2.  It matters a great deal¹ whether they intend to send out cavalry or infantry.
@@ -1320,7 +1320,7 @@ The Athenians hoped that a Spartan army would march into Boeotia, and had taken 
 
 ¹ maximi interest. 
 
- ## Exercise 116A
+## Exercise 116A
 
 1.  The general tried to discover the numbers and intentions of the enemy.
 2.  Have you been able to discover his reason for doing this?
@@ -1332,7 +1332,7 @@ The Athenians hoped that a Spartan army would march into Boeotia, and had taken 
 8.  He sent me to discover the nature of the island.
 9.  It is uncertain where they started from, and when they will reach the city.
 
- ## Exercise 117B
+## Exercise 117B
 
 1.  I could not discover his reason for saying that.
 2.  We cannot find out the size of the enemy’s camp.
@@ -1345,19 +1345,19 @@ The Athenians hoped that a Spartan army would march into Boeotia, and had taken 
 9.  I almost think they have been compelled to retreat.
 10. We could not discover their reason for returning home.
 
- ## Exercise 118A
+## Exercise 118A
 
 It is said that a certain prophetess brought nine books to Tarquin,¹ king of Rome, and asked him if he wished to buy them. The king asked for what price she was willing to sell them; to which she replied that she would sell them for three hundred pieces of gold. The woman went away, but afterwards she returned with six books. Tarquin asked where she had left the others, and she replied that she had burnt them, but that she would sell him these for the same price. Tarquin would not buy them, and she again left him. But once more she returned with only three books, and asked whether he was willing to buy these at the same price or not.
 
 ¹ Tarquinus.
 
- ## Exercise 119A
+## Exercise 119A
 
 The king, who wondered why she had returned so often, now asked his senate whether he ought to keep them. They first asked him what sort of books they were, and if the prophetess had shown them to him. The king replied that she had said nothing, but that she had burnt six books out of² nine, and now offered three at the same price. It seemed doubtful to the senators what they ought to do, but at last they advised the king to buy the books. Then the woman, having received the money, advised the Romans to keep the books very carefully, and went away.
 
 ² de.
 
- ## Exercise 120A
+## Exercise 120A
 
 The story is told of King Tarquin that he once determined to add new companies¹ to the Roman knights. Attius the augur said it could not be done. Moved by anger the king demanded that he should show by a sign what the gods wished. Attius replied that he would tell the king what he had in his mind. But Tarquin said, “Tell me rather whether that which I have in my mind can be done.” “It can be done,” said Attius. Then the king bade him cut a whetstone² in two, for he said he was thinking of that. Without any delay (so they relate³) Attius cleft it with a razor.⁴
 
@@ -1843,7 +1843,7 @@ King James’s¹ army was far² superior to Monmouth’s in numbers, but with su
 ⁶ avehi.
 ⁷ Hoping to, si forte (with Subjunctive).
 
- ## Exercise 168A
+## Exercise 168A
 
 1.  There can be no doubt that he did this on purpose.
 2.  I could not deny that I was guilty.
@@ -1856,7 +1856,7 @@ King James’s¹ army was far² superior to Monmouth’s in numbers, but with su
 9.  We must not doubt that he will keep his word.
 10. There was no man in the city who had not a son or a brother in the army.
 
- ## Exercise 169B
+## Exercise 169B
 
 1.  They do not deny that they desire peace on fair terms.
 2.  There was no man of noble birth who did not scorn Catiline.¹
@@ -1871,7 +1871,7 @@ King James’s¹ army was far² superior to Monmouth’s in numbers, but with su
 
 ¹ Catalina.
 
- ## Exercise 170A
+## Exercise 170A
 
 1.  It was owing to you that the army was not destroyed.
 2.  Who hindered you from coming to our help?
@@ -1885,7 +1885,7 @@ King James’s¹ army was far² superior to Monmouth’s in numbers, but with su
 10. I could hardly restrain them from burning the ships.
 11. They refused to leave the city.
 
- ## Exercise 171B
+## Exercise 171B
 
 1.  It was owing to Horatius that Rome was not taken.
 2.  The soldiers must be prevented from plundering the town.
@@ -1899,7 +1899,7 @@ King James’s¹ army was far² superior to Monmouth’s in numbers, but with su
 10. You prevented them by your threats from speaking the truth.
 11. Did you not refuse to supply the army with provisions?
 
- ## Exercise 172A
+## Exercise 172A
 
 1.  Every one knows that this ought to be done.
 2.  We must prevent the enemy from crossing the river.
@@ -1913,7 +1913,7 @@ King James’s¹ army was far² superior to Monmouth’s in numbers, but with su
 10. There is no doubt that they have betrayed us.
 11. I cannot help hoping that we shall be saved.
 
- ## Exercise 173B
+## Exercise 173B
 
 1.  It is impossible that you have not heard this.
 2.  There is no doubt that there lived brave men before Agamemnon.¹
@@ -1928,17 +1928,17 @@ King James’s¹ army was far² superior to Monmouth’s in numbers, but with su
 
 ¹ Acc. Agamemnona
 
- ## Exercise 174A
+## Exercise 174A
 
 All the world has heard how gallantly Horatius Cocles defended the bridge by which the enemies of Rome hoped to enter the city. First with two companions and afterwards alone he resisted all the attacks made upon him, and prevented the enemy from crossing; and there is no doubt that he was the salvation of the Roman state. Again and again the enemy charged, but were always repulsed with great loss. At last, when the bridge was all but broken by the Romans, his countrymen called to him to come back, and, offering a prayer to the river god, he threw himself into the water. His friends feared that he would be drowned; but contrary to the expectations, both of friends and enemies, he reached the other bank in safety.
 
- ## Exercise 175B
+## Exercise 175B
 
 In this year the Gauls, under the leadership of Brennus, crossed the Alps, and threatened Rome with war. It is said that they were provoked by certain Roman ambassadors, who violated international law by taking part in a battle fought between the Gauls and Etruscans. As the Senate refused to punish the ambassadors, the Gauls vowed with the help of the gods to avenge this wrong, and set out for Rome. At the river Allia they won a great victory over the Romans, nor were they afterwards opposed. They were greatly amazed at¹ no one trying to prevent their entering Rome, and stopped some time outside the walls.
 
 ¹ quod.
 
- ## Exercise 176A
+## Exercise 176A
 
 At the time when Russia² had as many enemies as neighbours, the king of Sweden laid siege to Novgorod, and the Swedes soon got possession of the city. There is no doubt that this happened through the carelessness of the inhabitants, and there are some who say it was the result of treachery. But there were some who determined to hold out to the last, and among these was a certain priest. He shut himself up in a house with a few friends, who, animated³ by his courage, refused to surrender, and fired⁴ on the enemy. Messengers were sent again and again to command them to surrender, and at last the enemy set fire to the house. But these brave men chose to be burnt in the house rather than to yield, for they had determined not to survive the independence of their country.
 
@@ -1946,7 +1946,7 @@ At the time when Russia² had as many enemies as neighbours, the king of Sweden 
 ³ confirmatus.
 ⁴ tela immittere. Of course the idea of fire-arms can never be reproduced in Latin. Cannon must be tormenta, rifles, guns, shot, ete., must be turned by some phrase with tela or pila.
 
- ## Exercise 177A
+## Exercise 177A
 
 Antiochus greeted the Roman ambassadors on their arrival, and was stretching out his hand to Popilius; but the latter¹ gave him the despatches, and bade him read these first. After reading them through the king said he would consult his friends as to what ought to be done. But Popilius drew a circle round the king with a rod which he was carrying in his hand, and said, “Before you leave this circle² give me an answer to take to the Roman Senate.” The king at first was on the point of refusing to obey the ambassador; but he knew that it would be to his advantage to keep the friendship of the Roman people, and at last replied that he would do what the Senate wished. Then at last Popilius stretched out his hand to the king as³ to a friend and ally.
 
@@ -1954,12 +1954,12 @@ Antiochus greeted the Roman ambassadors on their arrival, and was stretching out
 ² priusquam hoc circulo excedas.
 ³ velut.
 
- ## Exercise 178A
+## Exercise 178A
 
 When ambassadors came to Hannibal in Italy to recall him to Carthage, he received them with great anger, and could hardly refrain from shedding tears. “There is no doubt,” he cried, “that it is not the Romans who have conquered me, but my own people through their hatred and jealousy. Take me where you will; it matters little to me where I go, since I have to leave Italy.”  
 The ambassadors were now afraid that he would refuse to serve the state any longer, and tried to persuade him that the most important thing was to defend Carthage. But he replied that a city which feared to trust its generals did not deserve to be defended by them.
 
- ## Exercise 179B
+## Exercise 179B
 
 Elated by the rapid departure of the Roman fleet from Africa, the Carthaginians still more rejoiced on hearing of its destruction. They could now boast that they were “friends of the sea, and enemies of all who sailed on it.” This being the case the Romans could not prevent them from transferring the war to Sicily, with all the land forces, with one hundred and forty elephants, and with a fleet to help the army. They made straight for that island, and, taking the field,¹ prepared to ravage the open country.² But the Romans, with unconquerable resolution, undertook³ the construction of a new fleet, and within three months two hundred and twenty new vessels had been built, and were ready for action.
 
@@ -1967,7 +1967,7 @@ Elated by the rapid departure of the Roman fleet from Africa, the Carthaginians 
 ² compestres loci
 ³ suscipere, followed by Gerundive.
 
- ## Exercise 180B
+## Exercise 180B
 
 The command was entrusted to Xanthippus, who seemed to all to be the man whom they could best trust. A cry was raised for instant battle,¹ for none doubted that they would conquer under the command of Xanthippus. Being thus appointed general, he led his army into the plain, and prepared to give battle to the Romans. He first ordered the elephants to charge the Roman centre, and the cavalry to fall upon the wings on both sides. The Roman horse, who were greatly inferior in numbers, fled without striking a blow,² and the elephants, rushing³ into the foremost ranks of the Roman infantry, laid the enemy low⁴ in every direction. Attacked in front by the infantry, on the flanks by the cavalry, and on the rear by the elephants, the majority of the Roman soldiers of the line stood their ground bravely, and died where they were standing.
 
@@ -1976,7 +1976,7 @@ The command was entrusted to Xanthippus, who seemed to all to be the man whom th
 ³ invecti.
 ⁴ prosternere hostem.
 
- ## Exercise 181B
+## Exercise 181B
 
 Ten years after, Caius, the younger brother of Tiberius, thinking he ought to avenge his brother’s death, brought forward laws to upset the whole constitution.¹ The people had not forgotten the death of Tiberius, and all the power of the senators could not prevent their electing Caius tribune of the plebs. But Tiberius had proposed his laws because he pitied the common people; Caius proposed his in order that he might the more easily satisfy his desire for revenge.² He was accused also of aiming at kingship. For two years he delivered many speeches before the people, and continued to propose³ all such laws as might lessen the senate’s power, but the most iniquitous of them was that which caused⁴ bread to be given to the common people at a very low rate.⁵
 
@@ -1986,7 +1986,7 @@ Ten years after, Caius, the younger brother of Tiberius, thinking he ought to av
 ⁴ efficere ut.
 ⁵ vili (abl. of Price).
 
- ## Exercise 182A
+## Exercise 182A
 
 1.  As soon as they saw us they went away.
 2.  I knew they would go away as soon as they saw us.
@@ -1999,7 +1999,7 @@ Ten years after, Caius, the younger brother of Tiberius, thinking he ought to av
 9.  Caesar had embarked all his troops before Pompey could reach Brundisium.
 10. Before Pompey reached Brundisium Caesar had embarked all his troops.
 
- ## Exercise 183A
+## Exercise 183A
 
 1.  We were defeated almost before battle was joined.
 2.  The Gauls attacked the camp before our men could man the walls.
@@ -2012,7 +2012,7 @@ Ten years after, Caius, the younger brother of Tiberius, thinking he ought to av
 9.  As long as Caesar remained in Gaul there was peace.
 10. They waited until night came on.
 
- ## Exercise 184B
+## Exercise 184B
 
 1.  I will come to you when I have finished this work.
 2.  As soon as I had finished the work I left the city.
@@ -2025,7 +2025,7 @@ Ten years after, Caius, the younger brother of Tiberius, thinking he ought to av
 9.  The prisoners escaped into the woods before the soldiers could overtake them.
 10. Our men advanced in close order until they saw that the enemy were retreating.
 
- ## Exercise 185B
+## Exercise 185B
 
 1.  Horatius stood firm until the bridge was broken down.
 2.  I will leave the army as soon as the new consul arrives.
@@ -2038,7 +2038,7 @@ Ten years after, Caius, the younger brother of Tiberius, thinking he ought to av
 9.  The consul said P. Scipio should not be accused before he had returned to Rome.
 10. Milo was in the senate till it adjourned.
 
- ## Exercise 186A
+## Exercise 186A
 
 As soon as Demosthenes arrived with his armament before Syracuse, and joined the army of Nicias, the siege was carried on with renewed vigour. At first Nicias’ want of energy³ prevented even Demosthenes from making a direct⁴ assault. But at length Nicias was persuaded to allow his men to assault the city in the night time. This attack had an unfortunate result. The Athenians, before they reached the walls of the Achradina, fell into confusion, and were not far from fighting with one another in the darkness. Demosthenes was obliged to sound a retreat. After this Nicias’ counsel again prevailed, and they determined to reduce the city by famine.
 
@@ -2047,7 +2047,7 @@ As soon as Demosthenes arrived with his armament before Syracuse, and joined the
 ³ _want of energy_ = inertia
 ⁴ directus
 
- ## Exercise 187B
+## Exercise 187B
 
 As soon as news reached him of William’s⁵ landing, Harold hastened southward by forced marches. Flushed⁶ by their recent success, his men did not despair of victory, and spent the night before the battle in feasting and drinking. The battle was stubbornly contested⁷ all day, and evening was approaching before it was clear which side⁸ would win the day. At length, by feigning retreat, William enticed the enemy from their position, and the Norman cavalry made⁹ great havoc in the ranks of the Saxon foot. But not until they saw their king fall, pierced through the eye by an arrow, did the Saxons take to flight. After his death they were routed, and fled in all directions.
 
@@ -2057,7 +2057,7 @@ As soon as news reached him of William’s⁵ landing, Harold hastened southward
 ⁸ utri.
 ⁹ edere.
 
- ## Exercise 188A
+## Exercise 188A
 
 1.  When spring returns we shall leave winter quarters.
 2.  Though they knew they would be killed, they advanced.
@@ -2070,7 +2070,7 @@ As soon as news reached him of William’s⁵ landing, Harold hastened southward
 9.  Having approached the city, we halted.
 10. Believing that they could hold out, they refused to surrender.
 
- ## Exercise 189B
+## Exercise 189B
 
 1.  We will come to meet you when you arrive.
 2.  Hoping to save the lives of his men the general gave the signal for retreat.
@@ -2083,7 +2083,7 @@ As soon as news reached him of William’s⁵ landing, Harold hastened southward
 9.  When they came to Athens, they found their friends.
 10. Since you think that I have deceived you, why do you not employ another messenger?
 
- ## Exercise 190A
+## Exercise 190A
 
 1.  While they were cutting down the wood the enemy came upon them.
 2.  If only he is accused, without doubt he will be cast into prison.
@@ -2098,7 +2098,7 @@ As soon as news reached him of William’s⁵ landing, Harold hastened southward
 
 ¹ rem prospere gerere.
 
- ## Exercise 191B
+## Exercise 191B
 
 1.  While we were wasting time the Gauls caught us up.
 2.  He was kept in prison until the king should return victorious.
@@ -2111,7 +2111,7 @@ As soon as news reached him of William’s⁵ landing, Harold hastened southward
 9.  We shall conquer if only we can entice them to battle.
 10. He refused to fight till reinforcements came.
 
- ## Exercise 192A
+## Exercise 192A
 
 1.  It was decided not to leave winter quarters till spring was approaching.
 2.  They knew that they could defend the town, provided that provisions did not run short.
@@ -2129,7 +2129,7 @@ As soon as news reached him of William’s⁵ landing, Harold hastened southward
 ¹ vulgo, plerumque.
 ² paulo.
 
- ## Exercise 193B
+## Exercise 193B
 
 1.  While the consul was absent the danger was increasing.
 2.  Since the enemy were only two miles distant, we were not allowed to wander out of camp.
@@ -2146,7 +2146,7 @@ As soon as news reached him of William’s⁵ landing, Harold hastened southward
 
 ¹ _Bring to trial_ = reum aliquem facere, _or_ nomen alicujus deferre.
 
- ## Exercise 194A
+## Exercise 194A
 
 Both Demosthenes and the common soldiers were greatly disheartened at this defeat, though Nicias seemed almost to have expected it. He now proposed that the siege should be abandoned, since the gods refused¹ their assistance, and they repeatedly met with disaster. But while they were still disputing² the Syracusans took away from them their last means of flight. In several engagements in the harbour they destroyed the whole Athenian fleet. Now all were eager to retreat, while it was still possible, towards their allies in the western part of the island. But the superstition³ of Nicias deterred them from setting out till the new moon had risen; and meanwhile deserters had betrayed their plans to the Syracusans, who blocked the pass by which alone they could hope to reach the interior.
 
@@ -2154,7 +2154,7 @@ Both Demosthenes and the common soldiers were greatly disheartened at this defea
 ² *de re disceptatur.*  
 ³ *nimia religio.*
 
- ## Exercise 195A
+## Exercise 195A
 
 At length, on the day appointed, they marched several miles until they came to the fatal pass. When they found this beset by the enemy, and all their attacks made no impression,⁴ they first tried to discover some other path by which they could ascend the mountains; then, almost in despair, they determined to make a dash⁵ for the coast, for this purpose dividing their forces into two divisions. Demosthenes was speedily overtaken and surrounded. Nicias met the enemy while crossing a river on the sixth day after he had left Syracuse. But, since his men had found no water to drink for many hours, they could not be restrained from rushing into the water, even when it was red with the blood of their comrades. All order being thus lost,¹ Nicias surrendered at discretion.² He and Demosthenes, being condemned to death, died by poison; the rest of the Athenians were kept in the stone quarries³ at Syracuse.
 
@@ -2162,7 +2162,7 @@ At length, on the day appointed, they marched several miles until they came to t
 ² *nullis conditionibus latis.*  
 ³ *latumiae.*
 
- ## Exercise 196A
+## Exercise 196A
 
 After surmounting all these obstacles, and so signally defeating the Gauls, Hannibal was all but destroyed, not in open fight, but by ambuscade. He had almost reached the top of the Alps, when some old men came to him in the guise of envoys. The misfortunes of others, they said, had been a warning to them, and they preferred to make trial of the friendship rather than the might of the Carthaginians, and were ready to do whatever he wished. Hannibal, considering that he must not rashly either trust or slight⁴ them, accepted them as guides, but followed with his army in fighting order.⁵ The moment⁶ they entered a narrow pass, the enemy sprang out of their ambuscade on all sides, and assailed him both in front and in rear, both from a distance and at close quarters.
 
@@ -2170,27 +2170,27 @@ After surmounting all these obstacles, and so signally defeating the Gauls, Hann
 ⁵ *‘prepared for battle’.*  
 ⁶ *‘as soon as’.*
 
- ## Exercise 197A
+## Exercise 197A
 
 When the Athenians had attempted without success to capture the island of Sphacteria, an assembly was called to discuss what steps should be taken. At this assembly Cleon, who was only a private citizen, and wholly inexperienced in war, declared that they would never be able to take the island while they employed such generals. “Under my command,” he said, “I am sure that the enemy would not resist¹ us for twenty days.” There is no doubt that he said this only to slight the other generals; but the Athenians at once assigned to him the control of the campaign, and he set out at once for the seat of war. Here, aided by fortune, he accomplished what he had undertaken, contrary to the expectations of all, and within twenty days returned to Athens in triumph.
 
 ¹ *Non fore ut hostes resistant.* This periphrasis is used to express the Fut. Inf. of Verbs that have no Fut. Inf. The same periphrasis may be used for the Fut. Inf. Passive of any Verb; e.g. sperant fore ut urbs capiatur.
 
- ## Exercise 198B
+## Exercise 198B
 
 It was already dawning when the general gave the signal, promising a great reward to the first man who² climbed the walls. No one indeed resisted them as they entered the city, where the walls had been broken down, or climbed by ladders. As soon as the shouting showed that the city had been taken the Asiatics all left their posts, and sought refuge in the citadel. The general allowed his men to plunder the town, partly because he was incensed with the inhabitants, and partly because the soldiers had hitherto always been restrained from plundering captured cities, and he wished them at last to have some reward for their valour. He was indeed accused of having done it to satisfy a grudge.
 
 ² NIn such phrases the Superlative must be transferred to the Relative clause-'_the man who first..._
  So for '_he sent the slave whom he had,_' the Latin idiom is, '_he sent the slave whom he had the most faithful_.' Also '_the only man who_' = '_the man who alone_' (solus or unus).
 
- ## Exercise 199B
+## Exercise 199B
 
 A certain man dreamed that he saw an egg hanging from the top of his bed; and when he had been the next day to consult a friend what the meaning of this dream might be, the friend told him that he would find a great quantity of gold hidden under his bed. After he had been digging for several hours he found a large quantity of gold surrounded with silver. Therefore he sent his friend a small part of the silver. The man, being vexed that he had received so small a reward, sent a messenger to ask whether he could not give him part of the yolk¹ of the egg; for (he said) inasmuch as the gold was covered with silver, the god had intended to show him the gold by the yolk and the silver by the rest.² But for my part I am not persuaded that this story is true.
 
 ¹ *vitellus.*  
 ² *reliqua pars.*
 
- ## Exercise 200B
+## Exercise 200B
 
 This man, although he had been banished from his country on a false charge, did not cease, as often as opportunity was offered, to help her to the best of his ability. He was not the man to put his own prosperity before that of¹ the State; and he used to say that when his countrymen needed him they would recall him; till that time should arrive he was willing to remain in exile. Soon an occasion was offered him to show his devotion.
 
@@ -2199,7 +2199,7 @@ A conspiracy was formed by some desperate men, who killed the chief magistrates,
 ¹ Omit “that of” in Latin.  
 ² *‘used’.*
 
- ## Exercise 201B
+## Exercise 201B
 
 Rutilius was not fit to be made governor of a province. On his departure from Asia, while visiting Ephesus, a city whose inhabitants worship Diana, he had robbed the temple of that goddess. And he did many other such things as would offend all Romans of the old character. And as often as he committed a theft he had a jest to justify¹ it by. He said he always took readily the little golden cups which the statues of the gods held in their outstretched hands. And when his companions asked him whether he did not expect some day to be punished, he said the gods would not punish a man who, after praying to them for benefits, took the first gift which they offered him. When he was old he did just the same things as² he had done when a young man. When on the point of death he said, “One thing I have been repenting for a long time³—that I did not take the golden cloak which Jupiter wears in his temple in Messenia. I could have given him a woollen one for it.”
 
@@ -2207,7 +2207,7 @@ Rutilius was not fit to be made governor of a province. On his departure from As
 ² *eadem quae.*  
 ³ *Jampridem, jamdudum* take the Present for the English Perfect, the Imperfect for English Pluperfect. 'Jampridem miror'='_I have long been wondering._' 'Jampridem mirabar'='_I had been for a long time wondering._'
 
- ## Exercise 202A
+## Exercise 202A
 
 1.  If you are able to do this, you ought to do it at once.
 2.  If I could do this, I would do it at once.
@@ -2221,7 +2221,7 @@ Rutilius was not fit to be made governor of a province. On his departure from As
 10. If they had been asked for help, they ought to have given it readily.
 11. They were always willing to help us, if we deserved help.
 
- ## Exercise 203B
+## Exercise 203B
 
 1.  Never promise if you cannot keep your word.
 2.  If once¹ we reach the camp, we shall be safe.
@@ -2233,7 +2233,7 @@ Rutilius was not fit to be made governor of a province. On his departure from As
 
 ¹ Expressed by Fut. Perf.
 
- ## Exercise 204A
+## Exercise 204A
 
 1.  If he had not mocked me, I should perhaps have forgiven him.
 2.  They may hate me, if only they fear me.
@@ -2249,7 +2249,7 @@ Rutilius was not fit to be made governor of a province. On his departure from As
 
 1 Whether ... or ... in double Conditions seu ... sen (sive). Whether ... or ... in double Questions utrum ... an ...
 
- ## Exercise 205B
+## Exercise 205B
 
 1.  Poets starve at Rome unless rich men relieve them.
 2.  If we march straight to Rome we shall feast to‑night in the Capitol.
@@ -2262,7 +2262,7 @@ Rutilius was not fit to be made governor of a province. On his departure from As
 9.  If I had never been poor, I should not now enjoy my riches.
 10. If Gracchus aimed at royal power, he was rightly put to death.
 
- ## Exercise 206A
+## Exercise 206A
 
 1.  We will take the place of the front rank if they are cut down.
 2.  If I were on the spot I should know what ought to be done.
@@ -2275,7 +2275,7 @@ Rutilius was not fit to be made governor of a province. On his departure from As
 9.  He would be arrested if anyone caught sight of him.
 10. He would be in prison now if only we could have arrested him.
 
- ## Exercise 207B
+## Exercise 207B
 
 1.  If they have conspired against the state, they deserve to be punished.
 2.  If they had not conspired, they would still be living in the city.
@@ -2289,22 +2289,22 @@ Rutilius was not fit to be made governor of a province. On his departure from As
 10. You must use your riches well, if you wish to be happy.
 11. You ought to have done this whether you wished to or not.
 
- ## Exercise 208A
+## Exercise 208A
 
 “Fellow‑soldiers, we have lost many brave men through treachery, and have been abandoned by our friends. But we must not lose heart; and if we cannot conquer, let us choose rather to perish gloriously than to fall into the hands of barbarians, who will inflict upon us the greatest miseries. If our ancestors had not been willing to encounter the vast forces of the Persians, Greece would now be in the hands of the barbarians. If we show ourselves worthy of them, we too shall benefit our country. The gods, the avengers of perjury, will be favourable to us; and seeing that they are offended by the violation of treaties, they will also follow us to battle, and combat for us.”
 
- ## Exercise 209B
+## Exercise 209B
 
 The general delivered this speech before his men: “You see how great the forces of the enemy are, and how impregnable their position is. If we attack them we shall without doubt suffer a severe defeat. But if, on the contrary, they were to leave their position and attack us, we should have good hopes of victory, for they have to cross a deep river and climb a steep hill before they can reach our lines.” By these words the general with difficulty persuaded his men to remain within their fortifications; and his advice was the salvation of the army. For if the Romans had attacked the enemy, who were superior to them both in numbers and position, they would undoubtedly have been conquered.
 
- ## Exercise 210A
+## Exercise 210A
 
 After the death of Tib. Gracchus, C. Blosius showed his friendship for him in a marvellous way. For the senate decreed that all who had taken part with¹ Gracchus should be punished. Blosius, when accused before the consuls, excused himself on the ground of his friendship² for Gracchus. “Whether my judges condemn me,” said he, “or whether they acquit me, I shall still always rejoice that I was the friend of Gracchus. If you, consuls, should bid me save my life by accusing Gracchus, I would not so save it. If I must die, let me die loyal to my friends.” The two consuls hesitated. At last one of them asked Blosius, “If Gracchus had ordered you to set fire to the temple of Jupiter, would you have done it?” To which Blosius replied, “Gracchus would not have ordered it.”
 
 ¹ *consentire cum.*  
 ² *amicitiae excusatione uti.*
 
- ## Exercise 211B
+## Exercise 211B
 
 On receiving news of the approach of Fairfax, the governor of Raglan Castle called together his men, and spoke as follows: “If all were going well, I should not conceive it to be my duty to consult the men whom I command. But since the enemy are already upon us, and we have not collected³ sufficient provisions, if there should be any here faint‑hearted, or any that care not to fight to the death in his Majesty’s cause, let him depart, and be not burdensome to us in the siege. If I am able, I will set⁴ him safe on the Welsh⁵ side of the river.” If the king himself had addressed them, the men could not have shown more zeal than they did on hearing this speech.
 
@@ -2312,7 +2312,7 @@ On receiving news of the approach of Fairfax, the governor of Raglan Castle call
 ⁴ exponere
 ⁵ *Celticus.*
 
- ## Exercise 212A
+## Exercise 212A
 
 1.  If all the best men have perished, who is left to rule the state?
 2.  If he ever saw his men suffering hardships, he tried to help them himself.
@@ -2325,7 +2325,7 @@ On receiving news of the approach of Fairfax, the governor of Raglan Castle call
 9.  A philosopher has said that fire is the origin of all things.
 10. There is no doubt that a considerable number of the enemy are trying to attack us in the rear.
 
- ## Exercise 213B
+## Exercise 213B
 
 1.  On my return I was told that someone had come to see me.
 2.  I returned as quickly as possible, but could not find anyone in my house.
@@ -2338,20 +2338,20 @@ On receiving news of the approach of Fairfax, the governor of Raglan Castle call
 9. When I return to Rome I shall find out if anyone has bought my house.
 10. An order was given that whoever plundered the houses should be put to death.
 
- ## Exercise 214A
+## Exercise 214A
 
 If after so great a victory the Gauls had immediately pursued the fugitives, Rome would certainly have been taken, so astonished and terrified were the citizens at the return of those who had escaped from the battle. The Gauls, however, not imagining the victory to be so great as it really was, gave way¹ to feasting and plundering the camp. Accordingly numbers who wished to leave the city had opportunity to escape, while those who remained were able to make preparations for defending the city. The latter, quitting the rest of the city, retired to the Capitol, which they fortified by strong ramparts; for they knew that if the Gauls attacked them they would need all their strength.
 
 ¹ *se dedere.*
 
- ## Exercise 215A
+## Exercise 215A
 
 There can be little doubt that the guides, whether through treachery or ignorance, were mainly responsible for the disaster. If the army had marched by the main road they would have arrived unmolested, and could have joined battle on the following day on equal terms. But following a shorter way across the fields, they found the road blocked on one side by a marsh, and on the other by cliffs. Then the general called together his officers, and said, “If we advance we shall run the risk of¹ being surprised by the enemy; on the other hand, if² we retreat we shall perhaps arrive too late. Had we only kept to the main road, we should already be approaching the city.” No one replied at once, and before any plan could be determined the cry was raised that the enemy were upon them.
 
 ¹ Use 'in periculum adduci ut.'
 ² Sin='_but if_' (introducing a second and contrary condition). '_If not,_' '_otherwise,_' without a verb=si minus.
 
- ## Exercise 216A
+## Exercise 216A
 
 A young Spartan, named Isadas, distinguished himself³ particularly in this action. He had neither armour nor clothes upon his body, and he held a spear in one hand and a sword in the other. In this condition⁴ he quitted his home with the utmost eagerness, and was the first to enter the battle. He dealt mortal⁵ wounds at every blow, and overthrew all who opposed him without receiving any hurt himself.⁶ Whether the enemy were dismayed at so strange a sight, or whether the gods preserved him on account of his extraordinary valour, it is certain that no man ever accomplished such marvellous deeds. It is said that after the battle the Ephori decreed him a crown for his valour, but fined him a thousand drachmae for having exposed himself to so great a danger without arms.
 
@@ -2360,7 +2360,7 @@ A young Spartan, named Isadas, distinguished himself³ particularly in this acti
 ⁵ mortifer.
 ⁶ ipse incolumis.
 
- ## Exercise 217A
+## Exercise 217A
 
 On the very day on which the Senate was deliberating whether they ought to summon back to Rome the Master of the Horse, news was brought that he had led out the troops which had been left in the camp, and in a battle with the Samnites had suffered a great disaster. The Dictator would not even wait to learn what the Senate determined, but hurried back to the camp. The Master of the Horse, summoned before the tribunal,¹ was asked why he, to whose care the safety of the Roman people had been entrusted, had without the orders of the Dictator led into battle the legions which he had been ordered to keep within the camp. The only reply he could make was² that he had thought he ought to use the legions which he commanded for the good of the Roman people whenever an opportunity offered.³
 
@@ -2368,7 +2368,7 @@ On the very day on which the Senate was deliberating whether they ought to summo
 ² *‘he could only answer this.’*  
 ³ *‘was given.’*
 
- ## Exercise 218A
+## Exercise 218A
 
 An Indian⁴ chief was taken prisoner by the Spaniards, and because he was a man of influence⁵ among the tribes they cut off his hands, with the intention of disabling him⁶ from fighting any more against them. But he, returning home eager to avenge this wrong, incited his countrymen not to let the Spaniards think their accustomed valour had forsaken them. And when they saw the cruelty which the Spaniards had practised⁷ towards him and others his companions, they burnt their homes, to prevent anyone’s wishing to return, and fell upon the Spanish settlement, with minds made up either to drive the Spaniards out of the town or to perish themselves in battle. While the battle was being fought the maimed chieftain himself carried arrows in his mouth with which to supply the combatants.
 
@@ -2377,18 +2377,18 @@ An Indian⁴ chief was taken prisoner by the Spaniards, and because he was a man
 ⁶ *‘that he might not be able.’*  
 ⁷ *‘used.’*
 
- ## Exercise 219B
+## Exercise 219B
 
 The Romans, when they heard of the disaster which had befallen Regulus, fitted out a large fleet for the rescue of the survivors; while the Carthaginians, rightly judging that the resolution of the Romans would not be broken by one calamity, also began to build a new fleet to protect them from another invasion. But in vain did they endeavour to reduce Clypea before the Romans could reach it. The small garrison, with surprising courage, repelled all attacks, and held out till the ensuing summer, when the Roman fleet arrived. A naval battle took place off the Hermaean promontory. The Romans gained the day, and took on board the defenders of Clypea who had so well earned their safety.
 
- ## Exercise 220B
+## Exercise 220B
 
 Hanno was now entrusted with the command. If he had followed¹ the example of Hamilcar, the Romans would without doubt have been defeated. But before he had held the command long he proved himself entirely unworthy of confidence. If ever he won a partial success,² he was unable to make use of it; and after having won, as he thought, a complete victory, he allowed his camp to be surprised and taken. For these circumstances the Carthaginians once more offered Hamilcar the command, although they could not expect a man whom they had treated so unjustly before to come to their help. But Hamilcar, still placing his country before all else, consented to take the command. By his strict discipline, by his energy, and by his great influence with the Numidian chiefs, he defeated the enemy in a pitched battle, and recovered a considerable number of cities which had revolted.
 
 ¹ _used._
 ² ex parte rem prospere gerere.
 
- ## Exercise 221B
+## Exercise 221B
 
 When Ulysses was cast upon¹ the island of Phaeacia, he was treated with all the hospitality which in those days strangers used everywhere to receive. Nausicaa, the king’s daughter, was the first person who met him, and she conducted him to her father’s palace. The best raiment which the maidens had woven was bestowed upon him; and he enjoyed the most sumptuous feast which his hosts could provide. On the next day games were held, and he was asked to join in² them, an honour which he at first refused. But afterwards, stung by the insults of the king’s son, the only man who forgot his duty to a guest, he showed that his strength was almost as great now as when he fought against Troy, and he surpassed the Phaeacians³ in their own sports.
 
@@ -2396,7 +2396,7 @@ When Ulysses was cast upon¹ the island of Phaeacia, he was treated with all the
 ² interesse.
 ³ Phaeaces.
 
- ## Exercise 222B
+## Exercise 222B
 
 If ever a man⁴ deserved to be well treated⁵ by his fellow‑citizens it was Tib. Gracchus. Son of a father who had pacified Spain (a work⁶ in which a whole series of Consuls had failed), and connected by birth with both the conquerors of Africa,⁷ he might have easily claimed the first place in the state, if he had been willing to obey the laws without⁸ trying to change them. But he had to journey through Etruria to his first province, Spain, and that country, then desolate, devoid of freemen, cultivated by slaves, made such an impression⁹ on him that he determined to find a remedy, if he perished in the attempt. All the best men of Rome favoured the laws he proposed, and had not a tribune stood in the way he would have accomplished his work with the goodwill of most, if not all.¹⁰
 
@@ -2408,7 +2408,7 @@ If ever a man⁴ deserved to be well treated⁵ by his fellow‑citizens it was 
 ⁹ commovere
 ¹⁰ ne dicam omnes.
 
- ## Exercise 223A
+## Exercise 223A
 
 1.  Although they were not convicted of treason, they inflicted great injury on the state.
 2.  Even if you denied this no one would believe you.
@@ -2424,7 +2424,7 @@ If ever a man⁴ deserved to be well treated⁵ by his fellow‑citizens it was 
 ¹ mutuari.
 ² nihilo minus, or nihilo secius.
 
- ## Exercise 224A
+## Exercise 224A
 
 1.  Though he were to offer me a great price, I should not sell the farm.
 2.  We must get to Rome to‑day, however³ many obstacles hinder us.
@@ -2440,7 +2440,7 @@ If ever a man⁴ deserved to be well treated⁵ by his fellow‑citizens it was 
 ³ quamvis.
 ¹ regio.
 
- ## Exercise 225B
+## Exercise 225B
 
 1.  Anyone can remain silent, even if he is angry.
 2.  They had resolved to remain silent, however many tortures might be inflicted upon them.
@@ -2455,7 +2455,7 @@ If ever a man⁴ deserved to be well treated⁵ by his fellow‑citizens it was 
 
 ² = _Although I believe._
 
- ## Exercise 226B
+## Exercise 226B
 
 1.  Although they had long been living in a foreign land, they observed the customs of their ancestors.
 2.  They refused to do this, though it was to their own advantage.
@@ -2470,15 +2470,15 @@ If ever a man⁴ deserved to be well treated⁵ by his fellow‑citizens it was 
 
 ¹ ad necem.
 
- ## Exercise 227A
+## Exercise 227A
 
 Although Lucullus had won many successes, he was unable to bring the war with Mithridates to a close. The king, after defeating Triarius in a pitched battle at Zela, had retreated to the mountains, satisfied with his success, and Lucullus gave orders for pursuit. But however desirous he might himself be of capturing the king, he found his men unwilling to follow him. Most of them had been absent from Italy for nearly twenty years, and since Lucullus had taken the command, they had suffered great hardships. Lucullus, though a good general, had none of that geniality which wins the affection of soldiers, and moreover he had been living in great luxury, though his soldiers often suffered from want. The result was that the army agreed to defend Pontus from Mithridates, but positively refused to undertake a new campaign.
 
- ## Exercise 228A
+## Exercise 228A
 
 Though the army opposed to Caesar had been much more numerous, he would nevertheless have come out of this campaign victorious. The discipline and experience of his soldiers were such that, although fortune might be adverse, they never lost heart. This appeared especially in the war round Dyrrhachium. Though the lines which they had constructed with so much trouble were assailed and the defenders driven out of them, there was no panic, nor did the soldiers scatter in flight in all directions over the country; but those who survived the defeat kept together, and retreated along the road which led into the mountains. Next day Caesar had again an army, which, though diminished, was prepared to face all dangers manfully.
 
- ## Exercise 229B
+## Exercise 229B
 
 However men may differ as to Napoleon’s character, there can be no doubt that he acquired a wonderful influence over¹ his soldiers. If they sometimes grumbled at his orders in private,² yet, when he led them to battle, there was not a man who was not ready to risk his life for him. They did this,³ although it was evident that he for his part never tried to spare the lives of his men, but was resolved to crush the enemy, however great the losses on his own side⁴ might be. Thus it happened that France came off victorious in so many conflicts, although she was opposed by many powerful enemies at the same time.
 
@@ -2487,14 +2487,14 @@ However men may differ as to Napoleon’s character, there can be no doubt that 
 ³ Translate 'idque' (omitting '_they did_'). Cf. και ταῦτα.
 ⁴ _of his own men_.
 
- ## Exercise 230B
+## Exercise 230B
 
 The determination of the Athenians remained unshaken, in spite of the desertion of so many of the Greek States. They readily granted to the Spartans the supreme command of the forces by sea as well as by land, although they themselves furnished two‑thirds of the entire fleet. The great Themistocles tried to inspire the other Greeks with some of the enthusiasm which he had aroused in the Athenians. Had he not displayed as much wisdom as valour, the cause of Greek freedom would have been lost. By his advice the confederates⁵ bound themselves to resist to the death, and in case of success⁶ to consecrate to the Delphian god a tenth part of the property of all Grecian states which had surrendered to the Persians of their own accord.
 
 ⁵ _allies_.
 ⁶ _if things happened well_.
 
- ## Exercise 231A
+## Exercise 231A
 
 1.  He behaved just as if he were mad.
 2.  He was rewarded just as he deserved.
@@ -2512,7 +2512,7 @@ The determination of the Athenians remained unshaken, in spite of the desertion 
 ¹ id solum egit ut.
 ¹ Contrast the clauses by ut ... ita, or by quum ... tum. These shouid often be used for both ... and or not only ... but also, where one sentence is to be emphasised more than the other.
 
- ## Exercise 232B
+## Exercise 232B
 
 1.  They rushed into the river as if they were mad.
 2.  Our men have been defeated, just as I foretold.
@@ -2529,29 +2529,29 @@ The determination of the Athenians remained unshaken, in spite of the desertion 
 
 ³ ut in tanto discrimine.
 
- ## Exercise 233A
+## Exercise 233A
 
 At the battle of Zama Hannibal showed the same resolution and the same skill in drawing up his line as he had shown fourteen years before at the battle of Cannae. But fortune was against him, and he went into the battle as if he himself knew it. The elephants, which before had often been a source of safety to the Carthaginians, now frightened by the shouting of the Romans, turned upon their own army, and threw the first line into confusion. The mercenaries formed¹ the first line, and as they fell back, the Carthaginians, drawn up in the second line, would not admit them through their ranks, and even charged them as if they were the enemy. This was not contrary to Hannibal’s expectations. He ordered the third line, his veterans brought from Italy, to charge and drive the disorderly rabble off the field. Then at length the battle with the Romans was renewed.
 
 ¹ consistere in.
 
- ## Exercise 234A
+## Exercise 234A
 
 The messengers, as they had been commanded, informed the people that in three days they must leave their homes and depart to another place. These at first made no answer, as if they did not understand what was demanded of them. But the chieftain, who under the circumstances showed great presence of mind, asked the messengers to explain more clearly the reason for this demand. The latter replied that they were only acting in accordance with the orders they had received. Then from the whole village arose loud cries and groans, as if they had undergone sentence of death; and one and all crowded around the messengers, with as much fury and indignation as they could have shown if those men had themselves been responsible for their sufferings.
 
- ## Exercise 235B
+## Exercise 235B
 
 Antiochus had invaded Egypt at the beginning of spring. But it happened just as some of his followers had foretold. As soon as he approached Alexandria a Roman ambassador, Popillius, met him, and handed him a letter from the Senate. The king read it, and replied that he would call his friends to a council and consider it; but Popillius with his staff drew a line round¹ the king, and bade him not move from the spot before he had given him an answer. Nor did he reply to any of the questions which the king asked him, but stood silent as if he did not hear; until the king, frightened by the ambassador’s boldness, promised to do what the Senate decreed. In like manner, wherever Romans went, they acted as if to them belonged the empire of the world.
 
 ¹ circumscribere
 
- ## Exercise 236B
+## Exercise 236B
 
 On hearing that he had been proscribed by Antony, Cicero fled for refuge to his villa,² which was close by the sea, and got on board a ship with the intention of crossing over into Macedonia. He put out several times, but was driven back by adverse winds, and at last returned to his villa, declaring that he would die in the country which he had so often saved. He went to bed, and slept well considering his critical position. His slaves, however, as if foreseeing his danger, aroused him, and placing him in a litter carried him through the woods towards the sea. He was soon overtaken by the soldiers, who had been sent in pursuit of him; and when they came up he forbade his slaves to offer any resistance, and stretching his neck out of the litter bade the soldiers complete their work.
 
 ² villa
 
- ## Exercise 237A
+## Exercise 237A
 
 Put into Oratio Obliqua after a verb in a Historic tense:—
 
@@ -2567,7 +2567,7 @@ Put into Oratio Obliqua after a verb in a Historic tense:—
 10. They were prevented by a storm from reaching the harbour.
 11. To‑day we have won a great victory
 
- ## Exercise 238B
+## Exercise 238B
 
 1.  Why did you persuade the allies to revolt?
 2.  Let us depart at once, and never return to this place.
@@ -2581,7 +2581,7 @@ Put into Oratio Obliqua after a verb in a Historic tense:—
 10. If this is true, I refuse to help you any longer.
 11. Unless help had arrived, all the citizens would have died of starvation.
 
- ## Exercise 239A
+## Exercise 239A
 
 Put into Oratio Obliqua after a verb in a Historic tense:—
 
@@ -2596,7 +2596,7 @@ Put into Oratio Obliqua after a verb in a Historic tense:—
 9.  Camillus, your fellow‑citizens beg and pray you to return and save the state.
 10. If you stay in my house you will certainly be attacked by these men.
 
- ## Exercise 240B
+## Exercise 240B
 
 1.  Where can we stay to‑night?
 2.  I am not sure that I shall reach you in time.
@@ -2611,39 +2611,39 @@ Put into Oratio Obliqua after a verb in a Historic tense:—
 
 ¹ consulere, dat.
 
- ## Exercise 241A
+## Exercise 241A
 
 Labienus was the next to speak, and he expressed contempt for Caesar’s forces. They must not imagine, he said, that this was the army which conquered Gaul and Germany. He was present himself at the battles fought in those countries, and was not rashly stating facts beyond his knowledge.¹ A very small fraction of that army survived. Many had been destroyed by pestilence, many had gone home. Had they not heard that regiments had been manufactured² at Brundisium out of the wounded that had been left behind? The forces which they saw before them were raw recruits, and most of them came from colonies beyond the Po. Moreover the flower of the army had perished in the two engagements at Dyrrhachium. He himself finally would swear never to return to the camp unless victorious; let all the rest follow his example.
 
 ¹ _which he had not ascertained._
 ² _made_
 
- ## Exercise 242A
+## Exercise 242A
 
 According to the historian Livy,³ Appius declared to the assembled Senate that he wished he was deaf so that he might not hear the disgraceful counsels which were that day dishonouring the Roman name. He greatly regretted, he said, their change of temper; it was very different from the temper of former days. Whither had their pride and courage fled? Had they not once boasted that they would have opposed Alexander himself, if in the period of their youth he had dared to invade Italy? Let them not now deliver up to Lucanians and wretched Greeks⁴ what their fathers had won by the sword.
 
 ³ Apud Livium scriptum invenimus.
 ⁴ Graeculus, the diminuitive expressing contempt.
 
- ## Exercise 243A
+## Exercise 243A
 
 The terms of peace, heavy though they were, were only such as they expected under the circumstances;¹ and Hannibal dragged down with his own hands from the rostrum an orator who was recommending the continuance of the war. The people were indignant with Hannibal for thus infringing upon their liberty of speech; but Hannibal replied that they must forgive him if, after serving thirty‑six years in the camp, he had forgotten the manners of the forum. Livy relates that the terms agreed upon by Scipio and the Carthaginian government were then referred to the Senate at Rome, and were accepted by them, both because they felt that they were sufficiently severe, and also because they feared that if they rejected them the Carthaginians would renew the war.
 
 ¹ in tali re.
 
- ## Exercise 244A
+## Exercise 244A
 
 The general then summoned a council of war and spoke thus (Or. Obl.): “We must now decide whether it is to our advantage to hold our position or to retreat while we still have the opportunity. The reinforcements, which we have so long expected, have not arrived; and for my part I believe we are no match for the enemy. But I know we can trust the courage and endurance of our men, and if it is your wish, I am prepared to hold out as long as possible. Tell me plainly your opinion, for I shall do nothing without your approval.” When the general had finished his speech, many different opinions were expressed; but at length ’t was decided that, considering the numbers of the enemy, it would be wiser to retreat and not to run the risk of a severe defeat.
 
- ## Exercise 245A
+## Exercise 245A
 
 Caesar, when the report of the Senate’s action reached him, addressed his soldiers. He told them what the Senate had done, and why they had done it. “For nine years he and his army had served their country loyally, and had won many victories. They had driven the Germans over the Rhine; they had made Gaul a Roman province; and the Senate had now broken the laws of the state, and had deposed the tribunes because they spoke in his defence. They had declared that the state was in danger, and had called Italy to arms, when he himself had in no wise injured them.” The soldiers whom Pompey supposed disaffected declared with one consent that they would follow their commander and the tribunes. In all the army only one officer proved false.
 
- ## Exercise 246A
+## Exercise 246A
 
 When Sulla had overcome his enemies and assumed supreme power, he assembled the senate and demanded with the utmost eagerness that Caius Marius should at once be declared an enemy to the state. No one dared to oppose him until Scaevola, on being questioned, refused to express an opinion. When, however, Sulla repeatedly asked him in a threatening voice to give his opinion, at length he replied (Or. Obl.): “You may show me the troops of soldiers with which you have surrounded the senate house; you may threaten me with death again and again; but you will never compel me to say that Marius, by whom the Roman state was saved, is an enemy to Rome.”
 
- ## Exercise 247A
+## Exercise 247A
 
 There are men in our times who seem to desire not only to change the laws (which¹ perhaps would be a laudable desire²), but to upset the whole state.³ I was listening to one such yesterday as he addressed a crowd of artisans in the forum (Or. Obl.). “Who is it,” he asked them, “that oppresses us? Who is it for whom we pile up wealth, while we want ourselves money to buy food? You yourselves can answer the question, nor is there any need for me to tell you. Our senators have the power to prevent good laws being carried, and M. Crassus buys the consulship every year for himself and his friends. Fellow‑citizens,⁴ there is only one remedy—let us drive them from the city. Let us teach them by fire and bloodshed how great a wrong they have done to the people.”
 
@@ -2652,36 +2652,36 @@ There are men in our times who seem to desire not only to change the laws (which
 ³ rempublicam evertere.
 ⁴ A Vocative in the middle of a speech will usually simply be omitted in Oratio Obliqua.
 
- ## Exercise 248A
+## Exercise 248A
 
 Three days after the setting out of the troops from Rome the gloomy intelligence arrived that the enemy, after having utterly routed the Roman army on the 12th of March, were now in possession of the city of Corioli, and all the territory and other property of the allies (Or. Obl.). “I am the only man,” said the messenger, “who has survived the battle. The enemy, flushed with recent victory, are coming in, and must⁵ even now be not more than three miles from the city. So savage is their temper, that I am sure no one, however old and infirm, will be spared.” Having heard this the Senate determined at once to send envoys to meet the enemy on their approach, with the intention of suing for peace.
 
 ⁵ Use 'sine dubio'.
 
- ## Exercise 249B
+## Exercise 249B
 
 He had now won a decisive victory, and it seemed certain that the campaign would shortly be brought to a successful issue, when all his hopes were dashed to the ground¹ by the refusal of his troops to continue the war. They declared that they were worn out with the hardships of the campaign, and that the prospect² of bringing the war to an end seemed as distant as ever. Why, they asked, must they leave their country and all that was dear to them and undergo every kind of suffering that their general might win the glory of a barren victory? They asserted that, even if they pursued the enemy, they would be unable to overtake them in their mountain fastnesses, while even the victories which they had already won had been purchased at the cost of much Roman blood.
 
- ## Exercise 250B
+## Exercise 250B
 
 The general replied that no one could be more anxious than himself to consult the interests of his men; but he reminded them how foolish it was to lose the advantages of a victory well‑nigh assured. They must not think, he said, that he had undertaken this campaign merely in the hope of winning glory for himself. They would share equally with him in the fruits of victory; and if once the enemy were crushed, they might return home enriched with spoils taken from the enemy. He also pointed out that though the enemy were seeking refuge in the mountains, they had not yet reached them, and that if an immediate advance were made, it would be easy to overtake them before they reached a place of safety.
 
 ¹ perdo.
 ² spes.
 
- ## Exercise 251B
+## Exercise 251B
 
 Turn into Or. Obl. after a Historic tense:—
 
 Do not believe what is commonly asserted in the city, that I am seeking the consulship for the sake of a province and the wealth that many of our senators steal from the subject states of Rome. Can you think that I, who was once the dear friend of Cato, am so changed in mind? Indeed, I had rather give up all hope of office than involve myself in such disgrace. I have heard recently that the publicani of Cilicia asked our friend Cicero to give them his legionaries to collect the taxes with. He refused at first, but afterwards was prevailed upon. If they were not Romans the very soldiers would refuse to take part in such cruel work. But let us try to devote ourselves to philosophy, and forget evils which we cannot cure.
 
- ## Exercise 252B
+## Exercise 252B
 
 On this night the king gathered round him his little band of followers, and in a few words said farewell to them (Or. Obl.). “Gentlemen,”¹ he said, “your fortune has so long been linked with mine that the word which I speak to‑night nothing but the last necessity forces me to utter. If there were yet a hope, I would still make use of your loyalty and your aid. Do not think that I value these lightly. You are the few who, having enjoyed with me the times of prosperity, refused to desert me in adversity. And for this I thank you. But permit me now to think of your safety, for the sake of which I shall to‑morrow give myself up. Why should I destroy you with myself? When the rebels have me in their hands they will perhaps leave you free to escape whither you will.”
 
 ¹ Omit the Vocative. See the note 4, p. 190.
 
- ## Exercise 253B
+## Exercise 253B
 
 Hearing of these immense numbers, Robert Guiscard assembled a council of his principal officers (Or. Obl.). “You behold,” said he, “your danger: you see how urgent¹ mit is. The hills are covered with arms and standards; and the Emperor of the Greeks is accustomed to wars and triumphs. Union is our only safety.² Only bid me, and I am ready at once to yield the command to a worthier leader.” The acclamation even of his foes assured him at this perilous moment of their confidence;³ and he thus continued (Or. Obl.), “Let us trust in the reward of victory, and let us not leave cowards the means⁴ of escape. Burn your vessels and your baggage, and give battle on this spot.” This resolution was unanimously approved, and Guiscard awaited in battle array the approach of the enemy. Perhaps he was not conscious that on the same ground Caesar and Pompey had formerly disputed the empire of the world.
 
@@ -2690,7 +2690,7 @@ Hearing of these immense numbers, Robert Guiscard assembled a council of his pri
 ³ _Even his private enemies showed by their applause that they trusted him._
 ⁴ locus or facultas.
 
- ## Exercise 254B
+## Exercise 254B
 
 Turn into Or. Obl. after a Historic tense:—
 
@@ -2699,11 +2699,11 @@ I might have gone to Spain, where I should have had my brother to share my labou
 ⁵ his.
 ⁶ Use nisi.
 
- ## Exercise 255A
+## Exercise 255A
 
 Meanwhile the Carthaginians, knowing the weakness of their naval force at Lilybaeum, and fully conscious that the place would not hold out unless they sent help, resolved to despatch troops at once. Hannibal, son of Hamilcar, was despatched with all haste to Sicily with fifty ships and 10,000 troops. He moved his fleet among the Aegatian islands opposite to Lilybaeum, waiting the moment when he should be able to pass the rocks and reefs that girt the harbour. At length a favourable wind sprang up. He set sail, and, massing his troops on deck to be ready for an engagement, with a boldness that deserved success he made his way safely through the narrow entrance. In the meanwhile the Roman ships remained at anchor close by, the sailors looking on aghast at his rashness, and expecting to see him dashed against the rocks.
 
- ## Exercise 256B
+## Exercise 256B
 
 The fight was fierce and tumultuous. The assailants were repulsed in their first attack, and several of their bravest officers were shot down in the act of storming the fortress sword in hand. The assault was renewed with greater success. The Indians were driven from one post to another. They disputed their ground inch by inch,¹ fighting with the utmost fury. Most of their veterans were cut to pieces, and after a long and bloody battle Philip and Canonchet, with a handful of surviving warriors, retreated from the fort and took refuge in the thickets of the neighbouring forest. The victors set fire to the wigwams and forts; the whole was soon in a blaze; many of the old men, the women, and the children, perished in the flames.
 
