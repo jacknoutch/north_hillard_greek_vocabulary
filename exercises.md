@@ -1077,8 +1077,8 @@ The Romans, having set out about the third watch, advanced with great caution, f
 
 Louis¹ could not at this time besiege Tunis,¹ because he had not received reinforcements from his brother Charles,¹ King of Sicily; and meanwhile his army was attacked by a disease which carried off the greater part of his soldiers in a few days. The king himself was seized with the disease, and felt that he would die of it. But, to sustain the courage of his soldiers, he performed all the duties of a king, and attended in every way to the safety of the camp. But at last he was compelled to remain within his tent, and before long² died, after telling his men never to abandon the siege.
 
-1 Louis=Ludovicus. Charles=Carolus. For Tunis use Carthage.
-2 Before long=mox.
+¹ Louis=Ludovicus. Charles=Carolus. For Tunis use Carthage.
+² Before long=mox.
 
 ## Exercise 96B
 
