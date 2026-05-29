@@ -1,8 +1,11 @@
 # README: North & Hillard Latin Prose Composition
 
-The repository is a digitisation of North & Hillard's classic Latin Prose Composition.
+The repository is a digitisation of North & Hillard's classic Latin Prose Composition and its Key.
 
-The digitisation is derived from the edition on [archive.org](https://archive.org/details/north-m.-hilladr-a.-latin-prose-composition-1913/page/n1/mode/1up).
+The digitisation is derived from the following editions:
+
+- [archive.org - textbook 1913 9th edition](https://archive.org/details/north-m.-hilladr-a.-latin-prose-composition-1913/page/n1/mode/1up)
+- [archive.org - key 1904 3rd edition](https://archive.org/details/LatinProseCompNorthHillardKEY)
 
 Sections have been digitised with a mixture of AI tools, including OCR and chat, under human instruction. Materials have been cursorily checked by a human eye, and a more systemised verification will be undertaken.
 
