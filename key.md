@@ -34,13 +34,13 @@
 
 1. Hostes se receperunt ut pugnam vitarent.
 2. Ducentos mittemus ut hostium iter impediamus.
-3. Celeriter iter fecerunt ne hostes consilia (sua) cognos-cerent.
+3. Celeriter iter fecerunt ne hostes consilia (sua) cognoscerent.
 4. Ad summum collem processimus ut hostium castra videremus.
 5. Cum Caesare iter facit ne a nobis accusetur.
 6. Laboramus ut divites fiamus.
 7. Venerunt ut arma nos rogent.
 8. Ne ignavum te putemus, fortiter pugna.
-9. HIoc fecit no pauper consul osset.
+9. Hoc fecit ne pauper consul esset.
 10. Non debemus hoc facere ut laudemur.
 
 ## EXERCISE 4.
