@@ -129,7 +129,7 @@
 2. Tam fortis adest nemo ut solus muros ascendat.
 3. Murus tam altus factus est ne quis unquam eum as-cenderet.
 4. Murus tam altus factus est ut nemo unquam eum posset ascendere.
-5. Tam defessus qum ut non possim laborare.
+5. Tam defessus sum ut non possim laborare.
 6. Nuntii qui missi sunt ut pacem rogarent redierunt.
 7. Leges quas Romani fecerunt tam bonae erant ut nemo eas violare vellet.
 8. Loquere de me ne unquam rursus me accuset.
