@@ -23,7 +23,7 @@
 2. Ad urbem ivit ne patrem videret.
 3. Domum ivimus ut amicos videamus.
 4. Ad Caesarem ibimus ut pacem rogemus.
-5. Ne me miseris ut pacem rogem,
+5. Ne me miseris ut pacem rogem.
 6. Celeriter currebamus ne caperemur.
 7. Equum emi ne fessus sim.
 8. Date ei gladium ne interficiatur.
@@ -91,7 +91,7 @@
 5. Tot erant hostes ut facile urbem ceperint.
 6. Tam alta erat arbor ut ceciderit et humi jaceret.
 7. Non satis fortes eramus ut in pugnam rediremus.
-8. Tanta erat ejus fortitudo ut omnes eum laudarent vellentque eum sequi,
+8. Tanta erat ejus fortitudo ut omnes eum laudarent vellentque eum sequi.
 9. Tam facile hoc fecit ut non defessus sit.
 10. Tales erant hae arbores ut non eas ascendere possemus.
  
@@ -130,7 +130,7 @@
 3. Murus tam altus factus est ne quis unquam eum as-cenderet.
 4. Murus tam altus factus est ut nemo unquam eum posset ascendere.
 5. Tam defessus qum ut non possim laborare.
-6. Nuntii qui missi sunt ut pacem rogarent redierunt,
+6. Nuntii qui missi sunt ut pacem rogarent redierunt.
 7. Leges quas Romani fecerunt tam bonae erant ut nemo eas violare vellet.
 8. Loquere de me ne unquam rursus me accuset.
 9. Divites pauperes juverunt ne fame morerentur.
@@ -201,7 +201,7 @@ Pyrrhus, rex Graecus, pecuniam dedit Fabricio, duci Romano, ut exercitum. Romanu
 
 ## EXERCISE 20.
 
-1. Sperare facilius est quam credere,
+1. Sperare facilius est quam credere.
 2. Qui imperare volunt ei discere debent parere.
 3. Bonus imperator esse putabatur.
 4. Omnium militum est velle pro patria mori.
@@ -326,7 +326,7 @@ Pyrrhus, rex Graecus, pecuniam dedit Fabricio, duci Romano, ut exercitum. Romanu
 1. Silentio facto haec dixit.
 2. Mortuus est dormiens.
 3. Mortuo Remo Romulus solus rex factus est.
-4. Magnis moonibus visis non urbem oppugnavimus,
+4. Magnis moonibus visis non urbem oppugnavimus.
 5. Accepto supplemento hostibus resistere poteramus.
 6. Consule Crasso pax erat.
 7. Hortatus milites eduxit.
@@ -354,7 +354,7 @@ Pyrrhus, rex Graecus, pecuniam dedit Fabricio, duci Romano, ut exercitum. Romanu
 3. Hostes nonnullos e castris egressos aggressi sunt.
 4. Caesare in castra ingresso milites hostium impetus fortius sustinebant.
 5. Suos ita (in hunc modum) hortatus discessit.
-6. Urbe prodita abierunt,
+6. Urbe prodita abierunt.
 7. Exercitu in urbem reducto obsides imperavit (0r) poposcit).
 8. Regibus expulsis Romani consules habebant.
 9. Aegris in castris relictis hostem secuti sunt.
@@ -449,7 +449,7 @@ Multos dies in castris mansimus impetum hostium ex-spectantes. Noctem quidem omn
 7. Hercules duodecim magna difficultate labores suscepit.
 8. Exercitus quem ille paravit multo quam noster major est-
 9. Mercurio alis freto nullum nave opus erat.
-10. Sagitta (quae) ab milite missa (erat) interfectus est,
+10. Sagitta (quae) ab milite missa (erat) interfectus est.
 11. Multo saepius mari quam terra bellum gerebatur.
 12. Frater meus me est duobus pedibus altior.
 
@@ -535,8 +535,8 @@ Multos dies in castris mansimus impetum hostium ex-spectantes. Noctem quidem omn
 6. Affirmaverunt novas copias visas esse atque brevi ad-venturas.
 7. Scio eos promisisse se ante solis occasum venturos esse.
 8. Adeo erant territi ut non viderent hostes impetum facere.
-9. Legati regem certiorem fecerant bellum confectum esse,
-10. Simulabant se regem de clade certiorem fecisse,
+9. Legati regem certiorem fecerant bellum confectum esse.
+10. Simulabant se regem de clade certiorem fecisse.
 11. Ne simulaveris te patre sapientiorem esse. 
 
 ## EXERCISE 49.

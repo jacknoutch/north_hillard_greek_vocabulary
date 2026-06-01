@@ -488,7 +488,7 @@ Three days after we crossed a river 45 feet broad. From this river we marched al
 For many days we remained within our camp awaiting the enemy's attack. All night we heard their shouts and songs, but by day we did not see them, nor did we dare to go out to explore. Their camp seemed to be pitched about six hundred yards from us, and there was a river between about twenty feet broad. At last we resolved to escape by this river. Aceordingly on a dark night we left the camp, and a large boat having been got ready we began to advance up the river without the knowledge of the enemy.
 
 ## Exercise 42A
-1. Having gained possession of the enemies' camp, he gave the booty to the soldiers,
+1. Having gained possession of the enemies' camp, he gave the booty to the soldiers.
 2. More citizens were dying of hunger than of disease.
 3. My brother was a man of weak body.
 4. The wise man is contented with his Jot, and performs his duties well.
@@ -779,7 +779,7 @@ In the battle which Caesar fought in that place with the Gauls he lost many of h
 
 When the king was told of this, he sent an officer² with 150 soldiers to take the robbers and bring them to him. On arriving at the place where the robbers were, they found that a very strong camp had been made in a wood, and that all the approaches had been blocked by cutting down trees.³ At length, however, the place was storined, and the robbers being taken were put to death but the king pardoned the leader's son, a boy twelve years old.
 
-² Here 'centurio.' The centurion corresponds to the English 'captain' and also to 'sergeant.' If a superior officer (e.g. colonel) is meant use tribunus militum. If the commander of a separate division is meant (a lieutenant-general) use legatus,
+² Here 'centurio.' The centurion corresponds to the English 'captain' and also to 'sergeant.' If a superior officer (e.g. colonel) is meant use tribunus militum. If the commander of a separate division is meant (a lieutenant-general) use legatus.
 ³ Abl. abs.
 
 ## Exercise 67B
