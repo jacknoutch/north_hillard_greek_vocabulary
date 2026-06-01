@@ -35,4 +35,8 @@ The Markdown file is organised by Exercise (a h2 heading) with a list of vocabul
 
 ### Lessons
 
+Lesson titles have been standardised, removing any trailing full stop.
+
 Rule headings have been standardised to be **bold**, following by a digit, and any trailing full stop has been removed.
+
+Some exercises are revision exercises for several topics. (E.g. exercises 10 to 19 are for both Final and Consecutive clauses.) These are also headed as a new Lesson, with an appropriate title.

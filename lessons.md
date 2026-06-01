@@ -101,7 +101,7 @@ e.g.
 
 **Rule 6**
 
-### Time.
+### Time
 
 To be expressed without a preposition.
 
@@ -212,7 +212,7 @@ The tense of the Infinitive is always the tense that was used by the speaker in 
 
 _Caesar ascertained through scouts that the mountain was being held by his own men, and that the Helvetii had moved their camp._
 
-## Price and Value.
+## Price and Value
 
 The 'Genitive of Value' (tanti, quanti, minoris, minimi, magni, pluris, flocci, etc .- which are properly Locatives) is only to be used of indefinite value with verbs of estimating or valuing.
 
@@ -251,7 +251,7 @@ N.B .- Remember that all "Dative Verbs" (i.e. all verbs that govern the Dative o
     - (b) Imperat. of nolo with Inf.
 - First and Third Persons. Present Subj., with ne if negative.
 
-### Examples.
+### Examples
 
 - _Do not buy this horse_ = Hunc equum ne emeris. Hunc equum noli emere.
 - _Let us (not) buy this horse_ = Hunc equum (ne) emamus.
@@ -277,7 +277,7 @@ Exceptions.- Jubeo, veto, take Present Infinitive. Avoid jubeo . . non, for whic
 
 Neu (neve) is used for neque in Indirect as in DirectCommands and Final Sentences.
 
-### Examples.
+### Examples
 
 - (a) Persuadet Rauracis ut una cum Helvetiis proficiscantur. _He persuades the Rauraci to set out with the Helvetii._
 - (b) Pontem, qui erat ad Genavam, jubet rescindi. _He orders the bridge at Geneva to be broken dou._
@@ -309,14 +309,14 @@ These Datives are never qualified by an epithet, except the simplest of quantity
 
 ¹ Earlier exercises on the Ablative are given on pages 36, 37.
 
-## Ablatives of Respect and Manner.
+## Ablatives of Respect and Manner
 
 1. Numero superiores = _Greater in number._
 2. Summa diligentia naves armare = _To fit ships with great care._
 
 The Ablative of Manner must have an epithet, except in a few words: e.g. jure (_rightly_), injuria (_wrongly_), fraude (_treacheronsly_), silentio (_in silence_), etc. If there is no epithet use cum: e.g. cum diligentia naves armare.
 
-## Gerunds and Gerundives.
+## Gerunds and Gerundives
 
 Distinguish the Gerund and Gerundive.
 
@@ -350,7 +350,7 @@ e.g.
 
 ² The Gerundive being Passive, none but transitive verbs (governing a direct object in the Acc.) can have a Gerundive. But utendus, potiundus, fruendus, can be used from utor, potior, fruor.
 
-## Supines.
+## Supines
 
 Besides the Gerund there is another Verbal Noun in Latin called the Supine. It only has two cases-an Acc. in -um, and an Abl. in -u.
 
@@ -433,7 +433,7 @@ The interrogative particles are the same as in direct questions (whether single 
 
 ² The PErfect represents a completed action. Therefore use the Perf. Subj. when the governing verb is primary and the dependent verb relates to an action completed in past time, e.g. Nescio quodmodo mortuus sit = _I do not know how he died._
 
-## Subordinate Clauses in Indirect Statement, etc.
+## Subordinate Clauses in Indirect Statement, etc
 
 **Rule 17** All clauses which are subordinate to an indirect statement or command or question have their verbs in the subjunctive.
 
@@ -468,7 +468,7 @@ A Consequence is most often expressed in this way with the phrases is qui, dignu
 
 ### Examples
 
-#### Final.
+#### Final
 
 - Duas legiones reliquit quae auxilio duci possent. _He left two legions to be brought up as reinforcements._
 - Nervii murum aedificaverunt quo facilius equitatum impedirent. _The Nervii built a wall the more easily to hinder the cavalry._
@@ -532,7 +532,7 @@ e.g. Legibus a nobis parendum fuit = _We had to obey the laws._
 - (b) ne with Subjunctive.
 - (c) ne non with Subjunctive.
 
-### Examples.
+### Examples
 
 - (a) Timeo redire. _I am afraid to return._
 - (b) Timeo ne redeat. _I am afraid that he will¹ return (of his returning)._
@@ -558,7 +558,7 @@ But quum (since) always takes Subj.
 
 N.B. Of course the Indicative of a Causal clause becomes Subjunctive if it forms part of an Indirect Statement. See Rule 17
 
-### Examples.
+### Examples
 
 - (a) Tacent quia periculum metuunt. _They are silent because they fear danger._
 - (b) Socrates accusatus est quod juventutem corrumperet. _Socrates was accused on the ground that he corrupted the youth. (It is not asserted by the writer that Socrates did corrupt the youth.)_
@@ -573,7 +573,7 @@ when these verbs are preceded by a negative.
 
 In these uses quin = qui-ne, _by which not_, qui being an old Ablative of the Relative.
 
-### Examples.
+### Examples
 
 - a) Non dubitare/negare¹ debemus quin fuerint ante Homerum poetae. _We ought not to doubt/deny that there were poets before Homer._
 - b) Nihil me deterrebit quin proficiscar. _Nothing will prevent my setting out._
@@ -638,12 +638,12 @@ When the temporal clause refers to Future time the verb will be in the Future (o
    in Historic tenses takes Subjunctive.
  - (= since/although) always Subjunctive.
 
-### Examples.
+### Examples
 
 - (a) Quum potero reddam. _I will pay it back when I can._
 - (b) Quae quum cognoscerent, se recipere in animo habebant. _when/since/although they learnt this, they intended to retreat._
 
-### Exceptions.
+### Exceptions
 
 Quum (= when) may take Historic tenses of the Indicative in certain cases-
 
@@ -755,14 +755,14 @@ e.g. Si patriam perdidisset interficiendus erat. _If he had betrayed his country
 - Nonnulli = some, of number, opposed to none, and often implying a considerable number.
 - Aliquot = some, of number.
 
-### Examples.
+### Examples
 
 - Quivis de virtute loquitur, vix quisquam virtutem praestat. _Everyone talks about virtue, scarcely anyone practises it._
 - Si quid cognovisti, loquere. _If you have learnt anything, speak._
 - Forsitan dicat aliquis... _Perhaps some one may say..._
 - Hic nescio quis loquitur. _There is someone or other talking here._
 
-### OTHER PRONOUNS.
+### OTHER PRONOUNS
 
 - Quisquis, whoever (adj. quicunque).
 - Ecquis? Interrog. and Indef. combined,-'anyone at all'?
@@ -790,7 +790,7 @@ Contrast Ne semper celaveris = _Do not be ever/always concealing it._
 - Quanquam is only to be used with INDICATIVE.
 - Eisi, etiamsi, tametsi may be used with either according to meaning.
 
-### Examples.
+### Examples
 
 - (a)
   - Romani quanquam fessi erant procedunt. _The Romans advanced in spite of being tired._
@@ -807,7 +807,7 @@ In the first case the commonest words of comparison used are: sicut (just as), p
 
 In the second case the commonest are : velut, quasi, tanquam (si).
 
-### Examples.
+### Examples
 
 - Poenas dedit sicut meritus est. _He was punished as he deserved._
 - Absentis Ariovisti crudelitatem quasi coram adesset horrebant. _They dreaded the cruelty of Ariovistus in his absence just as if he had been present._
