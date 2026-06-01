@@ -32,3 +32,7 @@ Exercise titles have been standardised to `Exercise 1A` where the format is the 
 `special_vocabularies.md` is a Markdown transcription of the Special Vocabularies at pages 204 to 238.
 
 The Markdown file is organised by Exercise (a h2 heading) with a list of vocabulary items for each exercise in English, following by the Latin. The various notes are preserved, though errors in the text have been corrected where identified.
+
+### Lessons
+
+Rule headings have been standardised to be **bold**, following by a digit, and any trailing full stop has been removed.

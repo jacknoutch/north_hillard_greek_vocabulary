@@ -2,7 +2,7 @@
 
 ## Sequence of tenses
 
-**Rule I.** The tenses in Latin are divided into two groups:
+**Rule 1** The tenses in Latin are divided into two groups:
 
 | Group | Indicative | Subjunctive |
 |-------|------------|-------------|
@@ -17,7 +17,7 @@ The English will generally make it quite clear which of the two Primary tenses, 
 
 ## Final Sentences
 
-**Rule 2.** Final Sentences (i.e. sentences expressing a *purpose*) have their verbs in the Subjunctive, introduced by *ut* when positive, by *ne* when negative.
+**Rule 2** Final Sentences (i.e. sentences expressing a *purpose*) have their verbs in the Subjunctive, introduced by *ut* when positive, by *ne* when negative.
 
 ### Examples
 
@@ -31,7 +31,7 @@ The English will generally make it quite clear which of the two Primary tenses, 
 
 ## Consecutive Sentences
 
-**Rule 3.** Consecutive Sentences (i.e. sentences expressing a consequence) have their verbs in the Subjunctive introduced by ut. When the consequence is negative we have ut non, ut nemo, ut nullus, ut nunquam, etc., according to the sense.¹
+**Rule 3** Consecutive Sentences (i.e. sentences expressing a consequence) have their verbs in the Subjunctive introduced by ut. When the consequence is negative we have ut non, ut nemo, ut nullus, ut nunquam, etc., according to the sense.¹
 
 ### Examples
 
@@ -49,7 +49,7 @@ In the following exercises (10-19) Final and Consecutive sentences are mixed. Wh
 
 ## Infinitives
 
-**Rule 4.** The simple use of the Infinitive is as the subject or complement of a finite verb. It thus corresponds to the English verbal noun in -ing.
+**Rule 4** The simple use of the Infinitive is as the subject or complement of a finite verb. It thus corresponds to the English verbal noun in -ing.
 
 e.g. laborare est orare = _working is praying._
 
@@ -67,7 +67,7 @@ e.g.
 
 ## Participles
 
-Rule 5. English sentences which require to be translated by participles in Latin are not usually in the Latin form at first. The English has to be turned; e.g. "The Greeks, having captured Troy, burnt it," cannot go straight into Latin, because Latin has no Perfect Participle Active.
+Rule 5 English sentences which require to be translated by participles in Latin are not usually in the Latin form at first. The English has to be turned; e.g. "The Greeks, having captured Troy, burnt it," cannot go straight into Latin, because Latin has no Perfect Participle Active.
 
 (a) Wherever possible, make the participle agree with the subject or object.
 
@@ -99,7 +99,7 @@ e.g.
 
 ## Time, Place, Space
 
-**Rule 6.**
+**Rule 6**
 
 ### Time.
 
@@ -164,7 +164,7 @@ In the sentence "He said many things" the verb governs a noun as direct object. 
 
 When the verb of 'saying' or 'thinking' is in the Passive the 'indirect statement' becomes the subject, e.g. nuntiatur hostem adesse="_that the enemy are near_" is announced. So with 'impersonals' like constat (_it is agreed_).
 
-**Rule 6.** When a statement is made dependent on a verb of "saying" or "thinking" the subject of the dependent clause is put in the Accusative, and the verb in the Infinitive.
+**Rule 6** When a statement is made dependent on a verb of "saying" or "thinking" the subject of the dependent clause is put in the Accusative, and the verb in the Infinitive.
 
 Verbs of "saying" and "thinking" include all such verbs as learn, perceive, kenow. .hear, pretend, inform, hope, promise, threaten-of which hope, promise, threaten are always followed by the Future Infinitive. The subject of the
 Infinitive must always be expressed.
@@ -189,7 +189,7 @@ Latin has no Reflexive Pronoun of the 1st and 2nd Persons, but ipse may be used 
 
 In the 3rd Person se is the Reflexive Pronoun, both Masc, and Fem., Sing. and Plu. It has no Nom., and for 'he himself,' 'they themselves' we must use ipse, ipsi in agreement with the subject.
 
-**Rule 7.** In simple sentences "se" refers to the subject of its own clause. In Indirect Statement (Acc. with Inf.) use
+**Rule 7** In simple sentences "se" refers to the subject of its own clause. In Indirect Statement (Acc. with Inf.) use
 se with reference to the subject of the principal verb; i.e. the verb of 'saying.' 'Eum,' 'eos' must not be used for the speaker.
 
 The adj. suus follows the same rule, and ejus must not be used for it.
@@ -202,7 +202,7 @@ The adj. suus follows the same rule, and ejus must not be used for it.
 
 ## Tenses of the Infinitive in Indirect Statement
 
-**Rule 8.** If the time referred to by the Infinitive is the same as the time of the verb of saying or thinking, the Present must be used. Otherwise use the Perfect or Future according to the tense of English.
+**Rule 8** If the time referred to by the Infinitive is the same as the time of the verb of saying or thinking, the Present must be used. Otherwise use the Perfect or Future according to the tense of English.
 
 The tense of the Infinitive is always the tense that was used by the speaker in Direct Statement; e.g. "He said he was ill." The actual words were, "I am ill." Therefore use the Present Infinitive.
 
@@ -228,7 +228,7 @@ nimis, parum, satis, aliquid virtutis = _too much, too little, enough, some cour
 
 ## Passive of Intransitive Verbs
 
-**Rule 9.** Intransitive Verbs cannot be used personally in the Passive, but they can be used impersonally:
+**Rule 9** Intransitive Verbs cannot be used personally in the Passive, but they can be used impersonally:
 
 e.g. Pugnatum est diu = _the battle lasted long._ Concurritur undique = _men run together from all sides._
 
@@ -243,7 +243,7 @@ N.B .- Remember that all "Dative Verbs" (i.e. all verbs that govern the Dative o
 
 ## Direct Command or Petition¹
 
-**Rule 10.** 
+**Rule 10** 
 - Second Person.
   - If positive = Imperative.
   - If negative =
@@ -269,7 +269,7 @@ e.g.
 
 In the sentences "He commands the building of a bridge," "He demands the payment of the money," the verbs 'commands' and 'demands' govern direct objects. But usually the place of this direct object is taken by a clause ; e.g. "He commands that the bridge be built," "He demands that the moncy be paid." these clauses are "noun sentences," and are as truly the objects of the principal verbs as the nouns 'building' and 'payment' in the first sentences. These object-sentences after verbs of asking and commanding are what we mean by "Indirect Commands."
 
-**Rule 11.** Indirect Commands are expressed in Latin by ut (when positive) ne (when negative) with the Subjunctive.
+**Rule 11** Indirect Commands are expressed in Latin by ut (when positive) ne (when negative) with the Subjunctive.
 
 The construction is exactly the same as that of Final Sentences.
 
@@ -285,7 +285,7 @@ Neu (neve) is used for neque in Indirect as in DirectCommands and Final Sentence
 
 ## Words That May Introduce Statements and Commands
 
-**Rule 12. The verbs moneo, persuadeo, suadeo, may introduce either an Indirect statement or an Indirect command.** In the former case, of course, they take Acc. with Inf. E.g. in the sentence "I will persuade him that this journey is dangerous," the word "persuade" introduces a statement; but in "I will persuade him to abandon this journey" it introduces a command.
+**Rule 12 The verbs moneo, persuadeo, suadeo, may introduce either an Indirect statement or an Indirect command.** In the former case, of course, they take Acc. with Inf. E.g. in the sentence "I will persuade him that this journey is dangerous," the word "persuade" introduces a statement; but in "I will persuade him to abandon this journey" it introduces a command.
 
 ### Example
 
@@ -323,7 +323,7 @@ Distinguish the Gerund and Gerundive.
 1. The Gerund is a Verbal Noun of the Active Voice, corresponding to the English verbal nouns in -ing; not to be confused with the Present Participle in -ing which is really an Adjective.
 2. The Gerundive is a Verbal Adjective of the Passive Voice.
 
-**Rule 13.** A. The oblique cases of the Gerund are used simply as the cases of a Noun. But the Accusative can only be used governed by a Preposition.
+**Rule 13** A. The oblique cases of the Gerund are used simply as the cases of a Noun. But the Accusative can only be used governed by a Preposition.
 
 e.g.
 
@@ -354,7 +354,7 @@ e.g.
 
 Besides the Gerund there is another Verbal Noun in Latin called the Supine. It only has two cases-an Acc. in -um, and an Abl. in -u.
 
-**Rule 14.** The Supine in -um can only be used to express purpose after Verbs of motion. It may govern an object.¹
+**Rule 14** The Supine in -um can only be used to express purpose after Verbs of motion. It may govern an object.¹
 
 The Supine in -u can only be used after Adjectives,² and corresponds to an Infinitive following an Adjective in English, e.g. "a question hard to answer."
 
@@ -369,7 +369,7 @@ The Supine in -u can only be used after Adjectives,² and corresponds to an Infi
 
 ## Direct Questions¹
 
-**Rule 15.** Direct Questions may be asked without any special Interrogative word, but they are frequently introduced
+**Rule 15** Direct Questions may be asked without any special Interrogative word, but they are frequently introduced
 - (a) by Interrogative Pronouns or Adverbs, such as quis, who? quando,² when? ubi, where?
 - (b) by Interrogative Particles. These Particles are in Single Questions -ne (enclitic), nonne (expecting answer "yes"), num (expecting answer "no"); in Double Questions utrum ... an, -ne ... an, utrum . .. annon.
 
@@ -394,7 +394,7 @@ In the sentence "He asked what I was doing" the clause 'what I was doing' is rea
 
 When a direct question becomes thus the subject or object of a verb we call it an Indirect Question.
 
-**Rule 16.** A clause expressing an Indirect Question in Latin always has its verb in the Subjunctive.
+**Rule 16** A clause expressing an Indirect Question in Latin always has its verb in the Subjunctive.
 
 The principal verb may be any such word as ask, know, doubt, consider, tell, etc.
 
@@ -435,7 +435,7 @@ The interrogative particles are the same as in direct questions (whether single 
 
 ## Subordinate Clauses in Indirect Statement, etc.
 
-**Rule 17.** All clauses which are subordinate to an indirect statement or command or question have their verbs in the subjunctive.
+**Rule 17** All clauses which are subordinate to an indirect statement or command or question have their verbs in the subjunctive.
 
 ### Example
 
@@ -456,7 +456,7 @@ verb, not in the following Infinitive; e.g. Debui venire or oportuit me venire. 
 
 ## Relative with the Subjunctive
 
-**Rule 18.** A relative with the subjunctive may express many adverbial meanings, especially a Purpose or a Consequence.
+**Rule 18** A relative with the subjunctive may express many adverbial meanings, especially a Purpose or a Consequence.
 
 This is the regular way of expressing a Purpose-
 
@@ -491,7 +491,7 @@ Occasionally also purpose is expressed by the Future participle; e.g. Legatos mi
 
 (Translation of "ought," "must.")
 
-**Rule 19.** The Nominative of both Gerundive and Gerund is used to express obligation. The Gerundive is used with Transitive Verbs, the Gerund with Intransitive Verbs.
+**Rule 19** The Nominative of both Gerundive and Gerund is used to express obligation. The Gerundive is used with Transitive Verbs, the Gerund with Intransitive Verbs.
 
 e.g. 
 - Gerundive-leges mutandae sunt = _the laws must be changed._
@@ -503,7 +503,7 @@ e.g.
 - Gerundive-dixit leges mutandas esse.
 - Gerund-dixit succurrendum esse amicis.
 
-**Rule 20.** In this construction the person on whom the obligation lies is expressed by the Dative. This is often called Dative of the Agent. But for the sake of clearness, where there is another Dative, the Agent is expressed by ab with the Abl.
+**Rule 20** In this construction the person on whom the obligation lies is expressed by the Dative. This is often called Dative of the Agent. But for the sake of clearness, where there is another Dative, the Agent is expressed by ab with the Abl.
 
 e.g. 
 - Leges nobis mutandae sunt = _we must change the laws._
@@ -527,7 +527,7 @@ e.g. Legibus a nobis parendum fuit = _We had to obey the laws._
 
 ## Verbs of Fearing
 
-**Rule 21.** Verbs of Fearing have three constructions-
+**Rule 21** Verbs of Fearing have three constructions-
 - (a) Prolate Infinitive.
 - (b) ne with Subjunctive.
 - (c) ne non with Subjunctive.
@@ -550,13 +550,13 @@ N.B. (b) and (c) are Final Sentences, Latin preferring to express the object or 
 
 A Causal Clause is one whicl gives a reason for the state ment of the principal cause.
 
-**Rule 22.** Causal Clauses have their verb
+**Rule 22** Causal Clauses have their verb
 - (a) in the Indicative when the actual cause of a fact is given,
 - (b) in the Subjunctive when only a suggested reason is given.
 
 But quum (since) always takes Subj.
 
-N.B. Of course the Indicative of a Causal clause becomes Subjunctive if it forms part of an Indirect Statement. See Rule 17.
+N.B. Of course the Indicative of a Causal clause becomes Subjunctive if it forms part of an Indirect Statement. See Rule 17
 
 ### Examples.
 
@@ -565,7 +565,7 @@ N.B. Of course the Indicative of a Causal clause becomes Subjunctive if it forms
 
 ## Quin
 
-**Rule 23.** Quin with Subjunctive is used
+**Rule 23** Quin with Subjunctive is used
 - 1a) after Verbs of doubting and denying¹
 - 1b) after Verbs of hindering and preventing²
 
@@ -599,7 +599,7 @@ N.B. In all its uses quin is preceded by a negative, or virtual negative (e.g. v
 
 ## Quominus
 
-**Rule 24.** Quominus with Subjunctive is used after verbs of hindering and preventing, whether they are positive or negative.¹
+**Rule 24** Quominus with Subjunctive is used after verbs of hindering and preventing, whether they are positive or negative.¹
 
 Exception. Prohibeo, veto, prefer an Infinitive.
 
@@ -612,7 +612,7 @@ Exception. Prohibeo, veto, prefer an Infinitive.
 
 ## Temporal Clauses
 
-**Rule 25.** Conjunctions used in a purely temporal sense are followed by the indicative. But the verb is put in the Subjunctive (a) when it is in Oratio Obliqua, (b) when some other idea than that of time (e.g. purpose) is introduced. 
+**Rule 25** Conjunctions used in a purely temporal sense are followed by the indicative. But the verb is put in the Subjunctive (a) when it is in Oratio Obliqua, (b) when some other idea than that of time (e.g. purpose) is introduced. 
 
 N.B. Quum is an exception. Also dum in the sense of while. For these see Rules 26, 27.
 
@@ -632,7 +632,7 @@ When the temporal clause refers to Future time the verb will be in the Future (o
 
 ## Quum
 
-**Rule 26.**
+**Rule 26**
 - Quum (= when)
   - in Primary tenses takes Indicative.
    in Historic tenses takes Subjunctive.
@@ -663,7 +663,7 @@ Quum (= when) may take Historic tenses of the Indicative in certain cases-
 
 ## Dum
 
-**Rule 27.** Dum 
+**Rule 27** Dum 
 - (= while¹) may take Present Indicative, even of Past Time and in Oratio Obliqua.
 - (= provided that, if only = dummodo) always Subjunctive.
 - (= until) follows ordinary rule of Temporal Conjunctions (Rule 25).
@@ -673,7 +673,7 @@ Quum (= when) may take Historic tenses of the Indicative in certain cases-
 - Dum reliquae naves convenirent ad horam nonam exspectavit. _To allow the rest of the ships to assemble, he waited till the ninth hour._
 - Mansit dum judices rejecti sunt. _He waited till the judges were rejected._
 
-¹ But when 'while' can be turned by 'as long as,' dum may take any tense of the Indicative, like quamdiu, etc. See Rule 25. e.g. Haec feci dum licuit = _I did this while (as long as) I was allowed_.
+¹ But when 'while' can be turned by 'as long as,' dum may take any tense of the Indicative, like quamdiu, etc. See Rule 25 e.g. Haec feci dum licuit = _I did this while (as long as) I was allowed_.
 
 The difference is that in this case the time of the action of the principal verb and the time of the action of the 'dum' verb are contemporaneous, i.e. begin and end together.
 
@@ -681,7 +681,7 @@ The difference is that in this case the time of the action of the principal verb
 
 ## Conditional Sentences
 
-**Rule 28.**
+**Rule 28**
 
 - A. Open Conditions, i.e. those in which we assume the condition without implying anything as to its fulfilment.
 
@@ -784,7 +784,7 @@ Contrast Ne semper celaveris = _Do not be ever/always concealing it._
 
 ## Concessive Clauses
 
-**Rule 29.** Concessive Clauses have their verb (a) in the Indicative when what is conceded is allowed to be a fact; (b) in the Subjunctive if it is only conceded as a hypothesis for argument's sake.
+**Rule 29** Concessive Clauses have their verb (a) in the Indicative when what is conceded is allowed to be a fact; (b) in the Subjunctive if it is only conceded as a hypothesis for argument's sake.
 
 - Quamvis, licet, quum, ut are only to be used with SUBJUNCTIVE.
 - Quanquam is only to be used with INDICATIVE.
@@ -801,7 +801,7 @@ Contrast Ne semper celaveris = _Do not be ever/always concealing it._
 
 ## Comparative Clauses
 
-**Rule 30.** When the Comparative Clause is meant to state an actual fact its verb is in the Indicative; but when it is a purely imaginary comparison the verb is in the Subjunctive.
+**Rule 30** When the Comparative Clause is meant to state an actual fact its verb is in the Indicative; but when it is a purely imaginary comparison the verb is in the Subjunctive.
 
 In the first case the commonest words of comparison used are: sicut (just as), perinde ac (exactly as), aeque ac (as much as), aliter ac (otherwise than), alius ac (different from), idem ac (the same as).
 
@@ -815,7 +815,7 @@ In the second case the commonest are : velut, quasi, tanquam (si).
 
 ## Oratio Obliqua
 
-**Rule 31.** In Latin it is much commoner than in English to report a long speech not in the exact words of the speaker, but in the Indirect form, or Oratio Obliqua. Each clause in this will be either an Indirect Statement, or an Indirect Command, or an Indirect Question, or a clause dependent on one of these; and the mood and tense must be determined by the rules already given.¹
+**Rule 31** In Latin it is much commoner than in English to report a long speech not in the exact words of the speaker, but in the Indirect form, or Oratio Obliqua. Each clause in this will be either an Indirect Statement, or an Indirect Command, or an Indirect Question, or a clause dependent on one of these; and the mood and tense must be determined by the rules already given.¹
 
 But observe-
 1. The Oratio Obliqua being continuous, the verb of "saying" which introduces it is not to be repeated before each clause, and a verb of command or questioning may be understood from one of saying and vice versa.
