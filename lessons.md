@@ -301,7 +301,7 @@ There is a similar ambiguity in the use of the English "tell," which may introdu
 
 These Datives are never qualified by an epithet, except the simplest of quantity; e.g. magno dedecori esse = _to be a great disgrace_. They are almost always accompanied by a Dativus Commodi, as nautis, hosti, Cacsari in the above examples.
 
-## Ablatives of Origin, Separation, Association.¹
+## Ablatives of Origin, Separation, Association¹
 
 1. Jove natus = Son of Jupiter.
 2. Libera nos metu = Free us from fear.
@@ -450,7 +450,7 @@ verb, not in the following Infinitive; e.g. Debui venire or oportuit me venire. 
 
 2. Remember that se refers to the subject of the sentence. An impersonal verb has no subject, and therefore cannot be followed directly by se; e.g. _He was ashamed_ = eum puduit. If, however, the impersonal is used in an indireet statement se must be used for the third person, because it refers to the subject of the verb of saying; e.g. Dixit se pudere = _He said he was ashamed_. See Rule 7, p. 40.
 
-## Genitive Case.¹
+## Genitive Case¹
 
 ¹ An earlier exercise on the Genitive will be found on page 50.
 
