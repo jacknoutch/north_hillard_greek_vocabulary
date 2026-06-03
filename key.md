@@ -225,7 +225,7 @@ Pyrrhus, rex Graecus, pecuniam dedit Fabricio, duci Romano, ut exercitum. Romanu
 7. Jucundum est eos juvare qui se juvare possunt.
 8. Omnes mentiri turpe debent putare.
 9. Alii imperare solent, alii parere.
-10. Ii qui aliis imperare solent discere debent parero.
+10. Ii qui aliis imperare solent discere debent parere.
 11. Stultum putant pro patria mori.
 12. Omnes debent eos qui sapientes esse videntur laudare. 
 

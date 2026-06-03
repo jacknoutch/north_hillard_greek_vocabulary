@@ -45,7 +45,7 @@ The English will generally make it quite clear which of the two Primary tenses, 
 
 ¹ The sequence of tenses is the same as for Final clauses, with one exception; viz. the Perfect Subj. is often used after a historic tense. But only use it thus when (a) the result is "momentary," not continuous, and (b) the result actually did follow. e.g. Tantus erat ardor militum ut nemo motum terrae senserit. _The soldiers were so engrossed that no one fell the earthquake._
 
-In the following exercises (10-19) Final and Consecutive sentences are mixed. When the sentence is negative remember that a negative final sentence always begins with ne, a consccutive sentence never does. Therefore for "that no one" use ne quis in a final, ut nemo in a consecutive sentence; "that no ... " use ne ullus or ut nulius; "that never " use ne unquam or ut nunquam.
+In the following exercises (10-19) Final and Consecutive sentences are mixed. When the sentence is negative remember that a negative final sentence always begins with ne, a consecutive sentence never does. Therefore for "that no one" use ne quis in a final, ut nemo in a consecutive sentence; "that no ... " use ne ullus or ut nulius; "that never " use ne unquam or ut nunquam.
 
 ## Infinitives
 
@@ -67,7 +67,7 @@ e.g.
 
 ## Participles
 
-Rule 5 English sentences which require to be translated by participles in Latin are not usually in the Latin form at first. The English has to be turned; e.g. "The Greeks, having captured Troy, burnt it," cannot go straight into Latin, because Latin has no Perfect Participle Active.
+**Rule 5** English sentences which require to be translated by participles in Latin are not usually in the Latin form at first. The English has to be turned; e.g. "The Greeks, having captured Troy, burnt it," cannot go straight into Latin, because Latin has no Perfect Participle Active.
 
 (a) Wherever possible, make the participle agree with the subject or object.
 
@@ -76,13 +76,13 @@ e.g.
 - _The Greeks having captured Troy, burnt it._ = Trojam captam Graeci incenderunt.¹
 - _The chiefs were taken and massacred._ = Capti duces trucidantur.
 
-(7) Wherever this is not possible, use the construction called Ablative Absolute; i.e. a Participle agreeing with a Noun in the Ablative, the whole phrase being an Abl. of Manner or "Attendant Circumstances"; e.g. in the sentence "_Having taken the city, he marched on,_" the participle cannot agree with the subject because there is no Perfect Participle Active in Latin, nor can 'the city' be made the object of the verb. We therefore turn it: "_The city having been captured, he marched on_" = Capta urbe progressus est.
+(b) Wherever this is not possible, use the construction called Ablative Absolute; i.e. a Participle agreeing with a Noun in the Ablative, the whole phrase being an Abl. of Manner or "Attendant Circumstances"; e.g. in the sentence "_Having taken the city, he marched on,_" the participle cannot agree with the subject because there is no Perfect Participle Active in Latin, nor can 'the city' be made the object of the verb. We therefore turn it: "_The city having been captured, he marched on_" = Capta urbe progressus est.
 
 ¹ Never write such a sentence as "Capta urbe, Graeci eam incenderunt." The Abl. Abs. is only to be used where the participle _cannot_ agree with subject or object.
 
 [page 26]
 
-1. Do not invent a Passive Participle of Intransitive Verbs. Saying "Caesare pervento" is absurd as saying "perventus est" for _he arrived_. Latin having no Perfect Part. Active, the only way to rener "Caesar having arrived" is "Caesar quum pervenisset."¹
+1. Do not invent a Passive Participle of Intransitive Verbs. Saying "Caesare pervento" is absurd as saying "perventus est" for _he arrived_. Latin having no Perfect Part. Active, the only way to render "Caesar having arrived" is "Caesar quum pervenisset."¹
 
 2. On the other hand remember that Deponents have Perfect Participles with an Active sense, though their form is Passive; e.g. locutus = having said, aggressus = having attacked, ratus = thinking, etc.
 
@@ -90,7 +90,7 @@ e.g.
 
 [page 27]
 
-1. "_Saying this, he fled_" is a loose way of expressing "_Having said this he fled_"; and in Latin must be "Haec looutus fugit." The Present Participle always denotes an action going on at the same time as the action of the principle verb, whatever the tense of that verb may be; e.g. Hoc jam moriens dixit=he said this while dying.
+1. "_Saying this, he fled_" is a loose way of expressing "_Having said this he fled_"; and in Latin must be "Haec locutus fugit." The Present Participle always denotes an action going on at the same time as the action of the principle verb, whatever the tense of that verb may be; e.g. Hoc jam moriens dixit=he said this while dying.
 
 2. We must often use participles in Latin where they are not used in English.
  1. Where English uses two simple verbs joined by "and" or "but"; e.g. _Numa died and Tullus became king_=Mortuo Numa Tullus rex factus est; _He took him and slew him_-Captum eum interfecit.
