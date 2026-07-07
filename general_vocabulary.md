@@ -1,4 +1,4 @@
-<img width="234" height="701" alt="image" src="https://github.com/user-attachments/assets/7d16cdab-3d7d-4d87-a5e7-60d70b2b9a5a" /># General Vocabulary
+# General Vocabulary
 
 This Vocabulary contains all the words given in the Vocabularies to the separate Exercises. It is meant to remind of forgotten words, but not to supply again constructions, genders, etc.
 
