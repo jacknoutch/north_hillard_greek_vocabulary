@@ -1,4 +1,4 @@
-# General Vocabulary
+<img width="234" height="701" alt="image" src="https://github.com/user-attachments/assets/7d16cdab-3d7d-4d87-a5e7-60d70b2b9a5a" /># General Vocabulary
 
 This Vocabulary contains all the words given in the Vocabularies to the separate Exercises. It is meant to remind of forgotten words, but not to supply again constructions, genders, etc.
 
@@ -276,3 +276,191 @@ bury, *sepelīre*
 but, *sed* (first word), *autem* (second word)  
   (= except), *praeter*, prep.; *nisi*, conj.
 buy, *emĕre*
+
+## C
+
+calamity, *incommodum*, *calamitas*
+calculating, (thinking), *ratus*
+call, *vocare* See Synonyms
+  together, *convocare*
+  (by name), *appellare*
+camp, *castra*, n. pl.
+  to keep in, *castris tenere*
+  to pitch a, *castra ponere*
+  to strike a, *castra movere*
+capable of, *aptus ad*
+capital (=city), *căput*
+capitol, *căpitolium*
+captive, *captīvus*
+care for, value. See p. 48.
+care, carefulness, *diligentia*
+carefully, *diligenter*
+careless, *něgligens*
+carelessly, *něgligenter*
+carelessness, *něgligentia*
+carry, *portare*
+  off, *auferre, abripěre*
+  (of a law), *ferre*
+cart, *carrus*
+Carthage, *Carthago*
+Carthaginian, *Poenus*
+  adj., *Punicus*
+castle, *castellum*
+Catiline, *Catilina*
+catch, *capere*
+  sight of, *conspicere, conspicari*
+  up, *consequi*
+cattle, *pecus*
+cause (be the cause of), *causae esse.* Voc. 85.
+  (see to) *curare* (Voc. 149); *efficere ut*
+caution, *diligentia*
+cavalry, *equitatus*, sing.; *equites*, pl.
+cavern, *spelunca*
+cease, *dēsiněre*
+celebrated, *praeclarus*
+  the celebrated Plato, *Plato ille*
+centre, *media pars*
+  (of line), *mědia ăcies*
+certain, a certain (=the Indef. Article), *quidam*
+certainly, *certo*; (at least), *certe*
+chance, by, *forte*, *casu*
+change, *mutare*
+character, *mores*
+characters (letters), *litterae*
+charge (accusation), *crimen*
+  (attack), *impětus*
+  to, *impětum facěre in*
+chariot, *currus*
+cheap, *vilis*
+  to hold, *parvi (minimi) facere*, *aestimare*
+check, *cohibere*
+cheer, to be of good, *bono animo esse*
+chieftain, *princeps*
+children, *liběri* (sometimes *pueri*)
+choose, *deligere*
+circumstances, under these, *quae quum ita sint, essent*.
+  under the circumstances, *ut in tali re*
+citadel, *arx*
+citizen, *civis*
+city, *urbs*
+claim, *usurpare*
+clear, it is, *liquet*, *manifestum est*
+clearly, *manifesto*, *certo*
+cleave, *discindere*
+clever, *callidus*, *sollers*
+cliff, *rupes*
+climb, *ascendere*
+cloak, *pallium*
+  (military), *sagum*
+close, *claudere*
+close order, in, *conferto agmine*
+close quarters, at, *comminus*
+clothe, *vestire*
+clothes, *vestis*, *vestitus*
+cloud, *nubes*
+club, *clava*, *fustis*
+coast, *ora*, *lītus*
+cold, noun, *frigus*
+  adj., *frīgīdus*, *gelidus*
+collect, *colligere*
+colony, *colonia*
+colour, *color*
+come, *věnire*
+  come out, *egredi*
+  back, *regredi*, *rědire*
+  between, *intercedere*
+  down, *descendere*
+  to the help of, *subvenire*
+  off victorious, *evadere victor*
+  upon, *incidere in*
+command, *imperare*, *jubēre*. See Voc. 61 and Rule 1I.
+  be in command of, *praeesse*
+  put into command, *praeficere*
+  chief command, *summa imperii*
+commander, *praefectus*. See p. 105, note 3.
+commit, *admittere*
+  (to one's care), *mandare alicui*
+commonly, *vulgo*, *plerumque* or use *constat*
+companion, *comes*
+compel, *cogere*
+complain, *queri*
+complete (victory), *certus*, *haud dubius*
+conceal, *celare*
+concerns, it, *attinet ad*, *pertinet ad*, *refert*, *interest* See Voc. 109.
+condemn, *damnare*
+  to death, *capitis damnare*
+conditions, *conditiones*
+conduct, *ducere*
+conference, *colloquium*
+confess, *confiteri*
+confidence (=trust), *fides*, *fidūcia*
+confusion, *tumultus*
+  throw into, *perturbare*
+connected with (by birth), *cognātus*, *conjunctus natu*
+conquer, *supěrare*, *vincěre*
+conqueror, *victor*
+consecrate, *vovere*
+consent, *velle*
+  with one consent, *consensu*
+consider, *cogitare*, *rēputare*, *dēlīběrare*
+considering, *rătus*
+conspiracy, *conjuratio*
+conspirator, *conjūratus*
+conspire, *conjūrare*
+constancy, *constantia*
+construct, *aedificare*
+consul, *consul*
+consulship, to stand for, *consulatum pětěre*
+consult, *consulere*, *deliberare*
+  interests of, *consulere* Voc. 61.
+content, *contentus*
+contest, *certamen*
+continue, *producere*
+continue to march, *iter continuare*
+contrary to, *contra*
+control (of campaign), *summa imperii*, or *summa belli administrandi*
+convict, *condemnare*
+Corinth, *Corinthus*
+corn, *frumentum*
+cost, *stare* Voc. 57
+council, *concilium*
+counsel, *consilium*
+countenance, *vultus*
+country (district), *terra*, *regio*
+  (only when opposed to town), *rus* in the, *ruri* or *rure*
+  (native land), *patria*
+courage, *virtus*
+  to show, *virtutem praestare*
+course, to hold on his, *cursum tenere*
+cover, *opěrire*
+  (shelter), *těgěre*
+coward, *ignavus*
+cowardice, *ignavia*
+credit, *laus*
+  to be a, *laudi esse*. Voc. 85.
+crime, *scelus*
+criminal, *nocens*
+crisis, *discrimen*
+crop, *seges*
+cross, *transire*, *transjicere*
+crowd, *turba*, *multitudo*
+crowd round, *circumfundi*
+crown, *corona*
+cruel, *saevus*, *crūdēlis*
+cruelty, *saevitia*, *crūdēlitas*
+crush, *profligare*
+cry, *clamor*
+cry out, *clamare*
+  (a cry was raised), *clāmatum est*, *clamor sublatus est*
+cultivate, *colere*
+cunning, nn., *sollertia*; adj. *sollers*
+cup, *poculum*
+cure, *sānare*, *mědēri*
+custom, *mos*
+according to, *more*
+customary, *solitus*
+customs, *instituta*
+cut down, *succidere*
+  (kill), *occidere*
+cut off, *desecare*
+cut in two, *discindere*
